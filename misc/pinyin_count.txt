@@ -1,0 +1,6257 @@
+a 5 2 0 0 0 0 0 0
+ai 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+aichi 0
+aide 0
+aihua 0
+aile 0
+ailv 0
+aiwen 0
+ali 0
+an 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+anbao 0
+ande 0
+ang 0 0 0 0 0 0 0 0 0 0 0
+anjian 0 0
+ankang 0
+anli 0
+anniu 0
+anpai 0
+anquan 0
+anquanxing 0
+anshen 0
+anye 0
+anyue 0
+anzhao 3
+anzhuang 2
+anzhuangbao 0
+anzhuo 0
+ao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+aoman 0
+aoti 0
+aoxue 0
+ayi 0
+ba 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+baba 0
+baban 0
+bai 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+baibai 0
+baida 0
+baidu 0 0
+baifang 0
+baihe 0
+baike 0
+baili 0
+bailu 0
+baimingdan 0
+baiping 0
+baiqing 0
+baituo 0
+baiye 0
+baji 0
+bake 0
+balu 0
+baluo 0
+ban 4 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+banben 7
+banbenhao 3
+banchang 1
+banfa 0 0
+bang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bangdao 0
+bangding 2
+bangdingma 10
+bangmang 0
+bangni 0
+bangong 2
+bangongshi 1
+bangwan 0
+bangwo 0
+bangzhu 0
+banhe 0
+bani 0
+banji 0
+banjiao 2
+banjing 0
+bankuai 0
+banlv 0
+banshi 0
+bantian 0
+banwei 0
+banxin 0
+banxue 0
+banzhang 0
+bao 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+baoban 0
+baobao 0
+baobei 0
+baobiao 0
+baochi 0
+baocun 1
+baofu 0
+baogao 0
+baoguan 0
+baogui 0
+baoguo 0
+baohan 5
+baohu 0
+baoji 0
+baokao 0
+baokuo 2
+baole 0
+baoliu 0
+baomi 0
+baoming 0
+baoqian 0
+baoxian 0
+baoxiang 2
+baoxiao 0
+baoxiu 0
+baoyan 0
+baoyou 0
+baozha 0
+baozhang 0
+baozheng 0
+baozhuang 1
+baping 0
+baqu 0
+baren 0
+bata 0 0
+bawo 0
+bazhan 0
+bei 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+beida 0
+beifen 1
+beijing 6 0
+beilou 0
+beiqiao 0
+beiren 0
+beitai 0
+beiwang 0
+beiwei 0
+beixuan 1
+beixuanxiang 1
+beiyong 0
+beizeng 0
+beizhan 0
+beizhu 7
+ben 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+benben 0
+benci 1
+bendao 0
+bendi 6
+beng 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bengkui 0
+benji 0
+benjie 0
+benke 0
+benlai 0
+benli 0
+benqi 0
+benren 0
+benshen 0
+benshi 0
+benshu 0
+benti 0
+benwen 0
+benxiao 0
+benyuan 0
+benzhang 0
+benzhi 0
+benzhou 0
+benzou 0
+benzu 0
+bi 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bian 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+biancheng 0 0
+biandong 0
+biange 0
+biangeng 0
+bianhao 0
+bianhua 1
+bianhuan 0
+bianji 2
+bianjiao 0
+bianjie 0
+biankuang 0
+bianli 0
+bianliang 0
+bianma 4
+bianqian 0
+bianshi 0
+bianxing 0
+bianyi 0
+bianyiqi 0
+bianyu 0
+bianzhi 0
+biao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+biaochu 0
+biaoda 0
+biaodashi 0
+biaoge 0
+biaohao 0
+biaoji 0
+biaole 0
+biaomian 0
+biaoming 0 0
+biaoqing 0
+biaoqingbao 0
+biaoshang 0
+biaoshi 8 0 0
+biaoshu 0
+biaoti 0
+biaotou 0
+biaoxian 0
+biaoxiang 0
+biaoye 0
+biaoyin 0
+biaoza 0
+biaozheng 0
+biaozhi 2 0
+biaozhong 0
+biaozhun 1
+bibao 0
+bibei 0
+bie 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+biede 0
+biehou 0
+biequ 0
+bieren 0
+bietu 0
+biji 0
+bijiao 2
+bijing 0
+bikai 0
+bikong 0
+bili 1
+bimian 1
+bin 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bing 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bingbu 0
+bingbushi 0
+bingchen 0
+bingchuang 0
+bingdai 0
+bingdu 0
+bingfang 0
+binggan 0
+bingjiu 0
+bingju 0
+bingneng 0
+bingqie 7
+bingqing 0
+bingren 0
+bingshe 0
+binguan 0
+bingwei 0
+bingyi 0
+bingyong 0
+bingzai 0
+bingzhong 0
+binhai 0
+binin 0
+biqi 0
+biran 0
+biren 0
+biru 1
+bisai 4
+bishe 0
+bitian 5
+biwei 0
+bixin 0
+bixiu 0
+bixu 2
+biyao 0
+biye 0
+biyou 0
+biyu 0
+bo 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bodong 0
+bodun 0
+bofang 12
+bokong 1
+boqin 0
+borong 0
+boshi 0
+botang 0
+boye 0
+bozi 0
+bu 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+buban 0
+bubian 0 0
+buchi 0
+buchong 0
+buchou 0
+buchu 0 0
+bucuo 0
+buda 0
+budang 0
+budao 1
+bude 0
+buduan 0
+budui 0
+buduo 0
+bufa 1 0
+bufei 0
+bufen 11
+bufu 0
+bugan 0
+bugao 0 0
+bugou 0
+buguan 0
+buguo 0
+buhan 0
+buhao 0
+buhui 2
+bujia 0
+bujian 0
+bujie 0
+bujin 0
+buju 1 0
+bukao 0
+buke 0 0
+bulai 0
+buli 0
+buliao 0
+bulun 0
+buman 0
+bumei 0
+bumen 0
+bunan 0
+buneng 3
+buqu 0
+buquan 0 0
+buque 0
+burong 0
+burongyi 0
+buru 0 0 0
+bushang 0
+bushao 0
+bushi 1 0
+bushou 0
+bushu 0
+busuan 0
+butian 2
+butong 6 0
+butui 0
+butuo 0
+buwei 0
+buwen 0
+buxiang 0 0
+buxiao 1 1
+buxiaoxin 1
+buxin 0
+buxing 0
+buxiu 0
+buxu 0
+buxuyao 2
+buyan 0
+buyao 1
+buye 0
+buyi 0
+buyiding 0
+buyiyang 0
+buyong 2
+buyuan 0 0
+buzai 3
+buzheng 1
+buzhengque 1
+buzhi 0
+buzhichi 1
+buzhidao 0
+buzhong 0
+buzhou 0
+buzu 0 0
+buzuo 0
+ca 0 0 0 0 0 0 0 0 0 0 0 0
+cai 10 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+caice 0
+caida 0
+caidan 1
+caigan 0
+caige 32
+caigou 0
+caiguan 0
+caiji 0
+caijian 0
+caijing 0
+cailiao 0
+caineng 0
+cainiao 0
+caipan 0
+caiqu 0
+cairang 0
+caishui 0
+caiwu 0
+caixiang 0
+caiyang 0
+caiyanglv 0
+caiyao 0
+caiyong 0
+caiyou 0
+caiyuan 0
+caiyun 0
+caizhi 0
+caizhun 0
+can 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+canci 0
+canfei 0
+cang 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cangcang 1
+cangcangku 1
+cangchu 0
+cangqian 0
+canguan 0
+cangzai 0
+canhui 0
+canjia 0
+canjian 16
+cankan 0
+cankao 2
+canku 0
+cansai 0
+canshu 12
+canyin 0
+canyu 1
+canyue 0
+canzhan 0
+canzhao 0
+cao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+caocong 0
+caogao 0
+caojie 0
+caokong 0
+caolao 0
+caoni 0
+caoxin 0
+caoyu 0
+caozong 0
+caozuo 1
+ce 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cebian 0
+cehua 0 0
+cekong 0
+celiang 0
+cema 0
+cen 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ceng 2 1 0 0 0 0 0 0 0 0 0 0 0
+cengbei 0
+cengci 0
+cengdie 0
+cengji 0
+cengjing 0
+cengmian 0
+ceshi 21
+cesuo 0
+cezhong 0
+cha 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chabie 0
+chacuo 0
+chadian 0
+chaduo 0
+chafang 0
+chai 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chaifen 0
+chailv 0
+chajian 1
+chaju 0
+chakan 1
+chakou 0
+chalian 0
+chan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chanchu 0
+chang 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+changan 1
+changchang 0
+changdao 0
+changde 0
+changdi 0
+changdou 0
+changdu 2
+changge 2
+changgui 0
+changhe 0
+changjia 0
+changjian 0
+changjing 0
+changju 0
+changli 0 0
+changqi 0
+changsha 0
+changshi 2 0
+changshui 0
+changsuo 7
+changtai 0
+changyong 0
+changyou 0
+changzhou 0
+changzhu 1
+chanpin 0
+chansheng 1
+chanshu 0
+chanye 0
+chanyin 1
+chao 4 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chaobiao 0
+chaobu 0
+chaode 0
+chaoguo 1
+chaoji 0
+chaomeng 0
+chaoshang 0
+chaosheng 0
+chaoshi 9 0
+chaoxi 0
+chaoyang 0
+charu 0
+chashou 0
+chaxie 0
+chaxun 9
+chayi 0
+chazhao 0
+che 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chedi 0
+chedui 0
+chen 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chendian 0
+cheng 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chengang 0
+chengben 0
+chengce 0
+chengdan 0
+chengde 0
+chengdu 0 0
+chengfa 0
+chengfeng 0
+chenggong 8
+chengguan 0
+chengguo 0
+chenghao 0
+chenghu 0
+chengji 1
+chengjidan 1
+chengjie 0
+chengli 0
+chengnuo 0
+chengpeng 0
+chengshi 0
+chengshu 0
+chengwei 1 0
+chengwu 0
+chengxian 0
+chengxiao 0
+chengxing 0 0
+chengxu 0
+chengyi 0
+chengyu 0
+chengyuan 0
+chengzan 0
+chengzhang 0
+chengzhi 0
+chenhan 0
+chenhong 0
+chenjiu 0
+chenlie 0
+chenni 0
+chenrong 0
+chenshu 0
+chentao 0
+chenwei 0
+chenya 0
+chenyi 0
+chepiao 0
+chezhan 0
+chi 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chicun 1
+chidao 0
+chifan 0
+chiku 0
+chixu 0
+chong 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chongbai 1
+chongdingxiang 0
+chongfen 0
+chongfeng 0
+chongfu 2
+chonggou 1
+chonglao 0
+chongman 0
+chongqi 0
+chongqing 0
+chongshi 1 0
+chongtu 1
+chongwen 0
+chongxie 0
+chongxin 3
+chongzai 0
+chongzhi 0 0 0
+chongzhuang 0
+chou 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+choucuo 0
+chouhua 0
+choujian 0
+choukong 0
+chouma 0
+chouqian 0
+chouqu 0
+chouwei 0
+chouxiang 0
+chouyan 0
+chouzi 0
+chu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chuai 0 0 0 0 0 0 0 0 0
+chuan 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chuanda 0
+chuandi 0
+chuang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chuangban 0
+chuangguan 0
+chuangjian 2
+chuangjin 0
+chuangkou 0
+chuangling 0
+chuangshou 0
+chuangxin 0
+chuangye 0
+chuangyi 1
+chuangzao 0
+chuangzuo 0
+chuanmei 0
+chuanru 0
+chuanshu 0
+chuantong 0
+chuantou 1
+chuanzhen 0
+chuban 0
+chubu 0
+chuchai 0
+chuchang 0
+chuchi 0
+chuchu 0
+chuchuang 0
+chude 0
+chuding 0
+chufa 4 0 0
+chufaqi 8
+chufei 1
+chuguo 0
+chui 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chujiao 0
+chujuan 0
+chukan 0
+chulai 0
+chule 0 0
+chuli 3
+chumian 0
+chun 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chunfeng 0
+chunjia 0
+chunjie 0
+chunqing 0
+chuo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+chuohao 0
+chupiao 0
+chuping 0
+chuqian 0
+chuqu 0
+churu 0
+chusheng 0
+chushi 2 0
+chushihua 0
+chuti 0
+chuxi 0
+chuxian 0
+chuyi 0
+chuyu 0
+chuzai 0 0
+chuzhang 0
+chuzu 0
+ci 4 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ciban 0
+cibiao 0
+cichang 0
+cichu 0
+cici 1
+cidian 0
+cihou 0
+cihua 0
+ciji 0
+cike 0
+ciku 2
+cilan 0
+cilei 0
+cimu 0
+cipan 0
+ciqian 0
+cisan 0
+cishi 1 0
+cishu 1
+citu 0
+ciwai 0
+ciyao 0
+cizu 3
+cong 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+congan 0
+congci 0
+congcong 0 0
+congdao 0
+congdeng 0
+conger 0
+conghan 0
+congjiao 0
+conglai 0
+conglv 0
+congqi 0
+congrong 0
+congshi 0
+congzhong 0
+cou 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+couge 0
+couhe 1
+couqian 0
+cu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cuan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cubao 0
+cuda 0
+cuhu 0
+cui 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cuicu 0
+cuihuan 0
+cuixin 0
+cujin 0
+culie 0
+cun 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cunben 0
+cunchu 0
+cundai 0
+cundang 0
+cunfang 0
+cunhuo 0
+cunpan 0
+cunqu 0
+cunzai 5
+cuo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cuoci 0
+cuoshi 0
+cuowei 0
+cuowu 7
+cuowuma 0
+cuqi 0
+d 149
+da 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+daan 0
+daba 0
+dabao 0
+dabian 0
+dadan 0
+dadao 0 0
+dade 0
+dadou 0
+dadu 0 0
+daduan 0
+daduo 0
+dagai 0 0
+dagang 0
+dagong 0
+dahong 0
+dai 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+daibiao 0
+daiche 0
+daichu 0
+daidui 0
+daihong 0
+daijia 0
+daikuan 0
+dailai 0
+daili 0
+daima 4
+daishang 0
+daitou 0
+daixiao 0
+daiyou 2
+daiyu 0
+daji 0
+dajia 0
+dajian 0
+dakai 3
+dakao 0
+dakeng 0
+dale 0
+dalei 0
+dali 0
+daliang 0
+damingdingding 0
+dan 6 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+danbi 0
+danbiao 0
+danchu 0
+danchun 0
+danci 0 0
+dancong 0
+dandan 0 0
+dandang 0
+dandiao 0
+dandu 0
+dang 4 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+dangan 0
+dangchu 0
+dangci 0
+dangde 0
+dangen 0
+dangling 0
+dangnian 0
+dangqian 35
+dangran 2
+dangranshi 1
+dangshi 0
+dangwei 0
+dangyuan 0
+dangzhu 0
+dangzu 0
+danji 0 0
+danju 0
+danli 0
+danliang 0
+danlie 0
+danmei 0
+danmu 0
+danni 0
+danren 0
+danshen 0
+danshi 0 0
+danta 0 0
+danteng 0
+danting 0
+danwang 0
+danwei 5
+danwo 0
+danxiang 2 0 0
+danxin 0
+danye 0 0 0
+danyi 0
+danyou 0 0 0
+danyuan 0
+danzai 0
+dao 28 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+daochu 0 0
+daoda 0
+daode 0
+daodi 0
+daohui 0
+daojing 0
+daoju 2
+daole 0
+daolun 0
+daoru 0
+daoshi 0 0 0
+daoshu 0
+daowo 0
+daoyan 0
+daozhi 0
+daozhuan 0
+daozhui 0
+dapai 0 0
+dapi 0
+dapian 0
+daping 0
+daqi 0
+daquan 0
+daren 0
+dasai 0
+dasha 0
+dashi 1 0 0
+dati 0 0
+dating 2 2
+datishang 0
+dawen 0
+dawenjian 1
+dawenti 0
+daxia 0
+daxiao 1
+daxiaoxie 1
+daxie 0
+daxing 0
+daxue 0
+dayi 0
+dayin 1
+daying 0
+dayu 0
+dayue 0
+dazao 0
+dazhan 0
+dazhi 0
+dazi 0
+dazuo 1
+dazuozhan 3
+de 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+debiao 0
+dechen 0
+dechu 0
+dedao 0
+dede 0
+dedou 0
+defei 0
+defen 3
+degai 0
+dehe 0
+dehua 0
+dehui 0
+dei 0 0
+dejiao 0
+dejiu 0
+deke 0
+dele 0
+dema 0 0
+den 0 0
+deng 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+dengbi 0
+dengbili 0
+dengbing 0
+dengdai 5
+dengdao 2
+dengde 0
+dengdeng 0
+denghao 0
+denghe 0
+dengji 0
+dengjia 0
+dengliu 0
+denglu 1
+dengni 0
+dengren 0
+dengshan 0
+dengzhao 0
+deo 0
+deqi 0
+dequn 0
+deren 0
+deshi 0 0
+deshu 0
+desi 0
+detu 0
+deyang 0
+deyao 0
+deyi 0
+deyong 0
+deyou 0
+deyu 0
+deyun 0
+dezhi 1
+dezhuan 0
+dezi 0
+di 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+dia 0
+dian 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+dianban 0
+diancan 0
+dianci 0
+diandao 0 0
+diande 0
+dianding 0
+diange 9
+diangetai 3
+dianhua 0
+dianji 1
+dianle 0
+dianlu 0
+dianmao 0
+diannao 1
+diannei 0
+dianping 0
+dianshang 0
+dianshi 13
+diansuan 0
+dianwu 0
+dianxin 0
+dianxing 0
+dianya 0
+dianyou 0
+dianzai 0
+dianzhao 0
+dianzhong 0 0
+dianzi 0
+diao 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+diaocha 0
+diaodu 0
+diaogou 0
+diaohuan 0
+diaoke 0
+diaole 0
+diaonan 0
+diaoxian 0
+diaoyan 0
+diaoyong 23
+diaoyongzhe 1
+diaozhuo 0
+diban 0
+dibu 0
+didi 0
+didian 0
+die 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+diedai 0
+dieke 0
+dier 1
+difang 0
+diji 0
+dikan 0
+dili 0
+diliao 0
+dilou 0
+dimi 0
+dinan 0
+ding 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+dingbu 0
+dingbulan 0
+dingcan 0
+dingceng 1
+dingdan 0
+dingde 0 0
+dingguo 0
+dinghou 0
+dinghuo 0
+dinglv 0
+dingpiao 0
+dingsheng 0
+dingshi 3
+dingshiqi 1
+dingti 0
+dingwei 0
+dingxiang 0
+dingyi 0
+dingyu 0
+dingzhang 0
+dingzhi 1
+dingzhu 0
+diqi 0
+diqiu 0
+diqu 0
+disan 0
+disanfang 0
+dishuo 0
+disi 0
+ditie 0
+ditu 0
+diu 0 0 0 0 0
+diuqi 0
+diushi 0
+diwei 0
+diyan 0
+diyao 0
+diyi 5
+diyige 2
+diyu 0 0
+dizhi 3
+dizi 0
+dong 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+dongbei 0
+dongche 0
+dongda 0
+dongdong 0
+dongfang 0
+donggan 0
+donghe 0
+donghua 0
+dongjin 0
+dongli 0
+dongmai 0
+dongman 0
+dongnao 0
+dongren 0
+dongshan 0
+dongshou 0
+dongtai 0
+dongwen 0
+dongxi 1
+dongxiang 0
+dongxiao 1
+dongxing 0
+dongyin 0
+dongyuan 0
+dongzuo 2
+dou 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+doudong 0
+douhao 10
+douhen 0
+doumei 0
+doupin 0
+doushi 0 0
+doushou 0
+douxing 0
+douyao 0
+douyi 0
+douyou 1
+douzai 0
+douzuo 0
+du 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+duan 3 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+duande 0
+duandian 0
+duankai 0
+duanlian 0
+duanluo 0
+duanqi 0
+duanshipin 0
+duanxin 0
+duanyu 0
+duanzan 0
+ducu 0
+dui 7 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+duibi 0
+duice 0
+duichang 0
+duichen 0
+duici 0
+duicuo 0
+duidui 0
+duigai 0
+duihua 0
+duihuakuang 0
+duihuan 0
+duihuanma 0
+duilian 0
+duilie 0
+duinei 0
+duini 0
+duiqi 0 0
+duishou 8
+duiwai 0
+duiwu 0
+duixian 0
+duixiang 7
+duiying 4
+duiyu 5
+duizhan 4 3
+duizhang 0 0
+duizhao 0
+dujue 0
+duli 1
+duliu 0
+dun 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+dunan 0
+duo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+duochu 0
+duoci 0
+duoda 0
+duoduan 0
+duoduo 0
+duofang 0
+duoge 5
+duoji 0
+duojiu 0
+duole 0
+duomian 0
+duoming 0
+duonian 0
+duoren 0
+duoshao 0
+duoshu 0
+duotiao 0
+duoxiang 0
+duoxie 0
+duoxing 0
+duoyong 0
+duoyu 0 0
+duozhong 0
+duqu 0
+duse 0
+dute 0
+duxie 0
+duzhan 0
+duzhe 0
+duzi 0
+e 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ei 0 0
+ele 0
+en 0 0 0 0 0 0 0 0 0
+enan 0
+er 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+era 0
+erban 0
+erci 0
+erhao 0
+erji 0 0
+erqie 0
+ersan 0
+ershi 0
+ershou 0
+erwei 0
+erweima 0
+erxuanyi 1
+eryan 0
+eryi 0 0
+erzhe 0 0
+etou 0
+ewai 0
+exin 0
+eyao 0
+fa 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+fabao 0
+fabiao 0
+fabiaoqing 0
+fabu 1
+fachu 0
+facuo 0
+fadao 0
+fade 0
+fadong 0
+fafang 0
+fagei 0
+fagui 0 0
+fahui 1 0
+fahuo 0
+fajue 0
+fakuan 0
+falai 0
+falao 0
+fale 0
+fali 0
+fan 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+fandao 0
+faner 0
+fanfu 0
+fang 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+fangai 0
+fangan 0
+fangbian 2
+fangcha 0
+fangda 0
+fangfa 1
+fangfan 0
+fangfei 0
+fangjia 0
+fangjian 0
+fangke 0
+fangkuan 0
+fangmian 0
+fangqi 0
+fangshi 4
+fangsong 0
+fangwen 0
+fangwu 0
+fangxiang 0
+fangxin 0
+fangxing 0
+fangxu 0
+fangyu 1
+fangzai 0
+fangzao 0
+fangzhen 0 0
+fangzhi 3
+fangzhu 12
+fangzi 0
+fangzong 0
+fanhua 0
+fanhui 9
+fanhuizhi 0
+fankui 0
+fanli 0
+fanmin 0
+fanqing 0
+fanrong 0
+fanshe 0
+fanshi 0 0
+fansuo 0
+fanti 0
+fanwei 2
+fanxiang 0
+fanye 0
+fanyi 0
+fanying 0
+fanyu 0
+fanzhai 0
+fanzheng 0
+fanzhi 0
+fanzhong 0
+fanzhou 0
+fapiao 0
+faqi 35
+faren 0
+fasan 0
+fashe 1
+fasheng 0
+fashou 0
+fasong 18
+fasongru 1
+faxian 0
+faxin 0
+faxue 0
+faya 0
+fayan 0
+fayang 0
+fazhan 0
+fazhi 0 0
+fei 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+feichang 0
+feidao 12 0
+feile 0
+feipin 0
+feixin 0
+feiyang 0
+feiye 0
+feiyong 0
+fen 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+fenbi 0
+fenbian 0
+fenbianlv 3
+fenbie 0
+fenbu 0
+fencheng 0
+fenci 0
+fendan 0
+fenduan 0
+fenfa 0
+feng 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+fengbo 0
+fenge 8
+fengfu 0
+fengge 0
+fengkuang 0
+fengmian 0
+fengong 0
+fengqi 0
+fenguan 0
+fengxian 0
+fengyu 0
+fenhao 1
+fenjie 0
+fenlei 0
+fenliang 0
+fenmiao 0
+fenpai 0
+fenpei 0
+fenping 66
+fenshu 9
+fensi 0
+fenwei 0 0
+fenxi 0
+fenxiang 0
+fenxiao 0
+fenye 0
+fenzhi 0
+fenzhong 0
+fenzi 0
+fenzu 0
+fo 0 0 0 0 0
+focha 0
+fou 0 0 0 0 0 0 0 0 0 0 0 0 0
+fouze 6
+fu 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+fuan 0
+fubiao 0
+fubu 0
+fuchi 0
+fudai 0
+fudan 0
+fudao 0
+fudong 0
+fufei 0
+fugai 0
+fuhao 1 0
+fuhe 0 0
+fujia 0
+fujian 0 0
+fujin 0
+fukuan 0
+fulei 0
+fuli 0
+fulu 0
+fumei 0
+fumian 0
+fumu 0
+fushi 0 0
+fushu 0 0
+futu 0
+fuwu 0
+fuwuqi 3
+fuxi 0
+fuxian 0
+fuxiu 0
+fuxuan 0
+fuxuankuang 0
+fuyan 0 0
+fuyi 0
+fuyong 0
+fuyou 0
+fuza 4
+fuzadu 1
+fuzai 0
+fuze 0
+fuzhang 0
+fuzheng 0
+fuzhi 0
+fuzhu 0
+fuzong 0
+fuzuoyong 0
+ga 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+gadiaoyong 1
+gai 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+gaibian 0
+gaide 0
+gaidong 0
+gaige 0
+gaihao 0
+gaihui 0 0
+gaijin 0
+gaikuang 0
+gaikuo 0
+gaile 0
+gailun 0
+gailv 0
+gaima 0
+gainian 0
+gaisheng 0
+gaishu 0
+gaiwei 0
+gaixiao 0
+gaiyao 0
+gaizao 0
+gaizheng 0
+gaizhuang 0
+gan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ganbu 0
+ganche 0
+gandao 0
+gang 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ganga 0
+gangcai 0
+gangdao 0
+gangdeng 0
+gangge 0
+ganghan 0
+gangqin 0
+gangti 1
+gangwei 0
+ganjin 0 0
+ganjue 0
+ganran 0
+ganxie 0
+ganying 0
+gao 11 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+gaobai 4
+gaoceng 0
+gaochao 7
+gaochou 0
+gaochun 0
+gaocuo 0
+gaode 0
+gaodu 0
+gaoer 0
+gaofen 0
+gaohong 0
+gaoji 0
+gaokao 0
+gaoliang 0
+gaoneng 0
+gaoqing 0
+gaosan 0
+gaosu 0 0
+gaotie 0
+gaoxiao 0 0
+gaoxing 0
+gaoyang 0
+gaoyu 1
+gaoyuan 0
+gaozhi 0
+gaozhong 0
+ge 4 21 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+gea 0
+gebie 0
+geci 0
+geda 0
+gedai 0
+gedan 0
+gede 0
+gefei 0
+gege 0
+gei 5 0
+geichu 0
+geifen 0
+geikai 0
+geile 0
+geini 0
+geiwo 0
+geiyu 1
+geji 0
+gejie 0
+gekai 0
+geke 0
+gelei 0
+gelie 0
+gemen 0
+gen 0 0 0 0 0 0 0 0 0
+genben 0
+geng 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+gengda 0
+gengduo 0
+genggai 0 0
+genghao 0
+genghuan 0
+gengjia 0
+gengju 0
+gengmang 0
+gengqiang 0
+gengshen 0 0
+gengshi 0
+gengxin 18
+genjin 0
+genju 2
+genlin 0
+genyu 0
+genyuan 0
+genzong 0
+gepan 0
+gequ 61
+geren 0 0
+geshi 12
+geshihua 0
+geshou 2
+geshu 8
+geti 0
+gewei 0 0
+geweishu 0
+gewu 0
+gexiang 0
+gexiao 0
+gexing 4
+geyue 0
+gezhong 2
+gezi 0 0
+gong 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+gongan 0
+gongben 0
+gongbu 0
+gongchang 0
+gongcheng 0
+gongdan 0
+gonggao 0
+gonggong 0
+gonggu 0
+gongguan 0
+gonghao 0
+gonghou 0
+gonghui 0
+gongji 0
+gongjian 0
+gongjiao 0
+gongjijin 0
+gongju 2
+gongkai 0
+gongke 0
+gongmian 0
+gongmin 0
+gongneng 5
+gongping 0
+gongqi 0 0
+gongqiu 0
+gongshang 0
+gongshen 0
+gongshi 0 0 0
+gongshou 0
+gongshuo 0
+gongsi 0
+gongtong 0
+gongwei 0
+gongxi 0
+gongxian 0
+gongxiang 0
+gongxiao 0
+gongxing 0
+gongxue 0
+gongyao 0
+gongying 0
+gongyuan 0
+gongzheng 0
+gongzhong 0
+gongzhonghao 0
+gongzi 0
+gongzuo 0
+gongzuoliang 0
+gou 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+goucheng 0
+goujia 0
+goujian 0 0
+goumai 0
+goumang 0
+gousi 0
+goutong 0
+gouxiang 0
+gouxuan 0
+gouzao 1
+gouzhi 0
+gu 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+gua 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+guai 0 0 0 0 0 0 0 0 0 0 0 0 0
+guaiwu 0
+guan 6 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+guanbi 19
+guanche 0
+guandian 0
+guandiao 0
+guanfang 0
+guang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+guangbiao 0
+guangbo 4
+guangdian 0
+guangdu 0
+guangfan 0
+guanggao 0
+guanghua 0
+guangpan 0
+guangrui 0
+guangyi 0
+guangyou 0
+guangzhou 0
+guanhe 0
+guanji 0
+guanjia 0
+guanjian 0
+guanjie 0
+guanka 0
+guanke 0
+guankong 0
+guankui 0
+guanle 0
+guanli 2 0
+guanlian 0
+guanming 0
+guannian 0
+guanshu 0
+guanshui 0
+guanwang 0
+guanxi 0
+guanxin 0
+guanyi 0
+guanyu 0 0
+guanyuan 0
+guanzhao 0
+guanzhu 0
+guazhi 0
+guci 0
+guda 0
+gudian 0
+guding 1
+gudong 0
+gufa 0
+gufu 0
+gugan 0
+guge 0 0
+gugong 0
+guhua 0
+guhui 0
+gui 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+guicheng 0
+guideng 0
+guiding 0
+guifan 0
+guige 0
+guihua 0
+guiji 0
+guilin 0
+guilv 0
+guimo 0
+guina 0
+guiping 0
+guishu 0 0
+guixi 0
+guiyang 0
+guiyi 0
+guiyuan 0
+guizai 0
+guize 2
+guizheng 0
+guizhou 0
+guji 0 0
+gujia 0
+gujin 0
+guli 0 0
+gulou 0
+gulv 0
+gun 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+gundong 0
+guni 0
+guo 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+guochang 0
+guocheng 2
+guoda 0 0
+guode 0 0
+guodu 0
+guoduo 0
+guofen 0
+guohua 0
+guoji 0
+guojia 0
+guolai 0
+guole 0
+guoliang 0
+guolv 0
+guoma 0
+guomao 0
+guomin 0
+guonei 0
+guoqi 1
+guoqing 0 0
+guoqu 0
+guowai 0
+guowen 0
+guoxiang 0
+guoye 0 0
+guoyu 0
+gupan 0
+guqi 0
+gushi 0 0
+gusuan 1
+guwang 0
+guwo 0
+guxu 0
+guyao 0
+guyou 0
+guzai 0
+guzhang 0
+guzhen 0
+h 5
+ha 0 0 0 0 0 0 0 0 0 0 0 0 0
+haha 0
+hai 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+haiba 0
+haibao 0
+haibei 0
+haibu 0
+haidei 0
+haifeng 0
+haige 0
+haigeng 0
+haiguan 0
+haihai 0
+haihua 0
+haihui 0
+haijiang 0
+haike 0
+hailiang 0
+haima 0
+haimei 0
+haineng 0
+haining 0
+haishi 0
+haiwai 0
+haiwang 0
+haiwei 0
+haixu 0
+haiyan 0
+haiyang 0
+haiyao 0
+haiying 0
+haiyou 1
+haizai 0
+haizao 0
+han 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+hanbing 0
+hang 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+hangban 0
+hangcheng 0
+hangdong 0
+hangju 0
+hangli 0
+hangshi 0
+hangtian 0
+hangye 0
+hangzhou 0
+hanjia 0
+hanjian 0
+hanjing 0
+hanju 0
+hanmei 0
+hanshu 1
+hanshui 0
+hanwei 0
+hanwu 0
+hanxuan 0
+hanyi 0
+hanyu 0
+hao 8 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+haoba 0
+haochu 0
+haode 0 0
+haodian 0
+haofeng 0
+haogan 0
+haohan 0
+haohao 0
+haohe 0
+haohong 0
+haojiu 0
+haole 0
+haoma 0
+haome 0
+haomiao 14
+haoni 0
+haoqi 0
+haoshi 0
+haowan 0
+haowu 0
+haoxiang 1
+haoxin 0
+haoyong 0
+haoyou 0
+haoyun 0
+haozai 0
+haozhao 0
+he 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+hean 0
+hebao 0
+hebing 4
+hechang 0
+hecheng 0
+hechu 0
+heci 0
+hedeng 0
+hedui 0 0
+heduo 0
+hefa 0
+hege 0
+hegui 0
+hehai 0
+hehe 0
+hei 0 0 0 0 0 0
+heibai 0
+heichong 0
+heihe 0
+heimingdan 0
+heise 0
+hejia 0
+hejian 0
+hejiu 0
+heka 0
+helai 0
+hele 0
+heli 0
+heluo 0
+hen 0 0 0 0 0 0 0 0 0 0 0 0
+henda 0
+henduo 0
+heng 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+hengao 0
+hengda 0
+hengping 10
+hengrou 0
+hengxiang 0
+henhao 0
+heni 1
+henjiu 0 0
+henkuai 0
+henmang 0
+henshao 0
+hensheng 0
+henxiang 0
+henyuan 0
+henzhua 0
+heping 0
+hese 0
+heshang 0
+heshi 2 0
+hesuan 0
+heta 0
+hetong 0
+hetu 0
+hewai 0
+hewei 0
+hexiao 0
+hexie 0
+hexin 0 0 0
+hexu 0
+heyao 0
+heying 0
+hezai 0
+hezeng 0
+hezhao 0
+hezhi 0
+hezhong 0
+hezhu 0
+hezi 0
+hezuo 0
+hong 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+hongbao 0
+hongdian 0
+hongdou 0
+honggou 0
+hongguan 0
+honghu 0
+hongjie 0
+hongle 0
+hongqiao 0
+hongse 0
+hongshan 0
+hongtou 0
+hongxia 0
+hongyan 0
+hongzhang 0
+hongzi 0
+hou 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+houdao 0
+houdou 0
+houduan 0
+houfa 0
+houfang 0
+houfu 0
+houguo 0
+houhui 0
+houjiu 0
+houmian 0
+houneng 0
+houqi 0
+houqin 0
+houshu 0
+houtai 1
+houwo 0
+houxiang 0
+houxu 2
+houxuan 1
+houxuanxiang 1
+houyan 0
+houzai 0
+houzhan 0
+houzhe 0
+hu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+hua 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+huabi 0
+huade 0
+huadong 1 0
+huafei 0
+huafen 0
+huafeng 0
+huai 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+huaichu 0
+huaichuai 0
+huaihua 0
+huajie 0
+huamian 0
+huan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+huanan 0
+huancun 1
+huang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+huangchao 0
+huangmiu 0
+huangshan 0
+huangshu 0
+huanguan 0
+huangyan 0
+huanhu 0
+huanjie 1
+huanjing 2
+huanju 0
+huanle 0
+huanshan 0
+huansuan 0
+huantai 0
+huanwei 0
+huanxing 0
+huaqian 0
+huaqiao 0 0
+huatu 0
+huawei 0
+huaxi 0
+huaxue 0
+huaya 0
+huayi 0
+huayou 0
+huazhong 0
+hubu 0
+hucu 0
+hudong 0
+huhuan 0
+hui 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+huibao 3 0
+huibi 0
+huibian 0 0
+huiche 0
+huicheng 0
+huichu 0
+huida 0
+huidao 0
+huide 0
+huidiao 1
+huifang 0
+huifei 0
+huifu 5 14
+huigu 0
+huigui 0
+huigun 0
+huiguo 0
+huihe 0
+huihua 0
+huihui 0
+huijia 0
+huilai 0
+huilv 0
+huimai 0
+huishang 0 0
+huishen 0
+huisu 0
+huitong 0
+huitu 0
+huiwang 0
+huixiao 0
+huixie 0
+huiyang 0
+huiyi 0 0
+huiyu 0
+huiyuan 0
+huizhi 5 0
+huizhuan 0
+huizong 0
+hukou 0
+huli 0
+hulue 3
+huming 0
+hun 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+hunan 0
+huni 0
+hunpai 0
+hunxiao 0
+huo 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+huoche 0
+huoda 0
+huode 3
+huodong 0
+huogui 0
+huojiang 1
+huoluo 0
+huopi 0 0
+huoqu 11
+huore 0
+huoshan 0
+huoshi 0
+huoshuo 0
+huowai 0
+huowei 0
+huowu 0
+huoyi 0
+huoyuan 0
+huoyue 0 0
+huoyun 0
+huozhe 3
+huxiang 1
+huzhou 0
+ji 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+jia 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+jiabao 0
+jiabu 0
+jiacu 0
+jiada 0
+jiadian 0
+jiafen 0
+jiage 0
+jiagong 0
+jiagou 0
+jiahang 0
+jiahui 0
+jiajia 0
+jiajian 0
+jiajie 0
+jiajing 0
+jiakuai 0
+jiali 0
+jiami 8
+jian 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+jianbang 0
+jianbei 0
+jianbiao 0
+jianbie 0
+jianbu 0
+jiance 0
+jiancha 0
+jianchang 0
+jianchi 0
+jianda 0
+jiandan 1
+jianfei 0
+jiang 5 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+jiangcheng 0
+jiangchi 0
+jiangde 0
+jiange 0
+jianggao 0
+jianghui 0
+jiangji 0
+jiangjie 0
+jiangke 0
+jianglai 0
+jiangle 0
+jiangli 0
+jiangnan 0
+jiangni 0
+jiangning 0
+jiangou 0
+jiangpin 1
+jiangqi 0
+jiangshi 0
+jiangshou 0
+jiangsu 0
+jiangu 0
+jianguang 0
+jianguo 0
+jiangwan 0
+jiangwei 0
+jiangxiang 0
+jiangxue 0
+jiangyao 1
+jiangying 0
+jiangzuo 0
+jianhua 3
+jianji 0
+jianjian 0
+jianjie 0 0
+jianjixingshi 0
+jianjun 0
+jiankang 0
+jiankong 1
+jianku 0
+jiankuang 0
+jianli 0 0
+jianlou 0
+jianmian 0
+jianmin 0
+jianmo 0
+jianni 0
+jianpan 0
+jianping 0
+jianqi 1
+jianrong 1
+jianshang 0
+jianshao 0
+jianshe 0
+jianshi 0
+jianshu 0
+jiansu 0
+jiansuo 0
+jianti 0
+jiantie 0
+jianting 2
+jiantou 0
+jianwo 0
+jianxian 0
+jianxin 0
+jianxing 0
+jianxiu 0
+jianyao 0
+jianyi 11
+jianyu 0 0 0
+jianyue 0
+jianzeng 0
+jianzhao 0
+jianzhi 0 0
+jianzhu 0
+jiao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+jiaoan 0
+jiaoben 1
+jiaocai 0
+jiaocha 0
+jiaochang 1
+jiaocheng 0
+jiaocuo 0
+jiaoda 0
+jiaodai 0 0
+jiaodao 0
+jiaodi 0
+jiaodu 0
+jiaoduo 0
+jiaofang 0
+jiaofu 0
+jiaogai 0
+jiaogao 0
+jiaohai 0
+jiaohao 0
+jiaohu 3
+jiaohuo 0
+jiaojian 0
+jiaojiao 0
+jiaokuai 0
+jiaola 0
+jiaolai 0
+jiaoliu 0
+jiaolv 0
+jiaoshi 0 0
+jiaoshou 0
+jiaotan 0
+jiaotong 0
+jiaowan 0
+jiaowu 0
+jiaoxin 0
+jiaoxing 0
+jiaoxue 0
+jiaoxun 0
+jiaoyan 0 0
+jiaoyi 0
+jiaoyu 1
+jiaozhi 0
+jiaozhou 0
+jiaozhu 0
+jiaqian 0
+jiaqiang 0
+jiaru 0
+jiashang 1
+jiashe 0
+jiashi 1
+jiashu 0
+jiasu 0
+jiasudu 0
+jiating 0
+jiawu 0
+jiaxiang 0
+jiayan 0
+jiayi 0
+jiazai 5
+jiazhang 0
+jiazhi 0
+jiazhong 0
+jiazi 0
+jiba 0
+jiben 0
+jibian 0
+jibie 0
+jiceng 0
+jichang 0
+jiche 0
+jicheng 1 0
+jichu 0 0
+jici 0
+jida 1
+jidao 0
+jide 0
+jidi 0
+jiding 2
+jidinghe 23
+jiduan 0
+jie 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+jiechu 0
+jieci 0 0
+jiedai 0
+jiedao 0
+jiede 0
+jiedian 1
+jieduan 0
+jiegou 1
+jieguo 5
+jiehe 0
+jiejian 0
+jiejin 0
+jiejiu 0
+jiejue 0
+jieke 0
+jiekou 28
+jieli 0
+jielun 0
+jiemi 0
+jiemian 0
+jienin 0
+jieo 0
+jieping 0
+jiequ 0
+jieri 0
+jieru 1 0
+jierufang 0
+jieshao 0
+jieshi 0 0
+jieshou 6 0 0 0
+jieshu 5
+jiesuan 0
+jieti 0 0
+jieting 0
+jietou 0
+jietu 0
+jiewei 0
+jiexi 0
+jieya 0
+jieyi 0
+jieyou 0
+jieyue 0 0
+jiezhi 0
+jiezhu 0
+jiezou 0
+jifang 0
+jifen 0
+jige 0
+jigou 0
+jihe 0 0 0 0
+jihu 0
+jihua 0
+jihui 0
+jihuo 0
+jiji 0 0
+jijia 0
+jijian 0 0
+jijiang 3
+jijin 0
+jiju 0 0 0
+jike 4
+jilei 0 0 0
+jili 0
+jiliang 0 0
+jilie 0
+jilin 0
+jilu 7
+jilv 0
+jimiao 1
+jin 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+jinan 0
+jinban 0
+jinbao 0
+jinbi 0
+jinbu 0
+jincheng 0 0
+jindang 1 0
+jindu 2
+jine 0
+jineng 0
+jiner 0
+jinfeng 0
+jing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+jingbiao 0
+jingcai 0
+jingdian 0
+jingen 0
+jinger 0
+jingfa 0
+jingfei 0
+jinggao 0
+jingguan 0
+jingguo 0
+jinghua 0
+jingji 0
+jingjian 0
+jingli 0 0
+jingong 0
+jingqing 0
+jingque 0
+jingsai 0
+jingshen 0
+jingshou 0
+jingtai 0
+jinguan 0
+jingwei 0
+jingxi 0 0
+jingxiang 0
+jingxin 0
+jingxuan 0
+jingyan 0
+jingyin 0
+jingying 0 0
+jingyu 0
+jingzheng 0
+jingzhi 0
+jingzhu 0
+jinhou 1
+jinhuo 0
+jinian 0
+jinji 0 0 0
+jinjin 0 0
+jinka 0
+jinkou 0
+jinkuai 0
+jinlai 0
+jinli 0
+jinliang 1
+jinmen 0 0
+jinmi 0
+jinnian 0 0
+jinpo 0
+jinqi 0
+jinqu 0
+jinque 0
+jinrong 0
+jinru 6
+jintian 0
+jintie 0
+jintui 0
+jinwan 0
+jinxi 0
+jinxian 0
+jinxing 7
+jinxiu 0
+jinyan 0
+jinyi 0 0
+jinyong 0
+jinyou 0
+jinzai 0
+jinzao 0
+jinzhan 0
+jinzhang 0
+jinzhi 1 0 0
+jinzhong 0
+jinzuo 0
+jiong 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+jipan 0
+jipiao 0
+jiqi 0 0 0
+jiqiang 0
+jiqiao 0
+jiqu 0
+jiran 0
+jirou 0
+jishi 4 0 0 0
+jishu 0 0
+jisong 0
+jisuan 2
+jiti 0 0
+jituan 0
+jiu 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+jiuban 0
+jiuchao 0
+jiuci 0
+jiucuo 0
+jiudai 0
+jiudian 0
+jiudou 0
+jiudu 0
+jiugongge 0
+jiuhui 0 0
+jiuhuo 0
+jiujie 0
+jiukuai 0
+jiulai 0
+jiule 0
+jiuqi 0
+jiuqing 0
+jiuren 0
+jiushi 0
+jiusuan 0
+jiuwo 0
+jiuxing 0
+jiuyao 0
+jiuye 0
+jiuyou 0 0
+jiuyue 0
+jiwang 0
+jiwei 0 0 0 0
+jixia 0
+jixiang 0
+jixiao 0
+jixu 1
+jiyao 0
+jiye 0
+jiyi 0 0
+jiyin 0
+jiyou 0
+jiyu 0 0
+jizhang 0
+jizhen 0
+jizhi 0
+jizhong 1 0 0
+jizhu 0
+jizhua 0
+jizhui 0
+jizi 0 0
+ju 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+juan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+juanhang 0
+juannei 0
+juanpan 0
+juban 0
+jubei 0
+jubu 0
+juchang 0
+juchi 0
+juci 0
+juda 0
+jue 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+juece 0
+juede 0
+jueding 0
+juedui 0
+juehao 0
+juesai 0
+juese 0
+jufeng 0
+juhui 0
+jujiao 0
+juli 0 0
+jun 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+jungong 0
+junheng 0
+junjie 0
+junjiu 0
+junpeng 0
+junwei 0
+junwu 0
+junyun 0
+junzai 0
+junzhang 0
+jupei 0
+juqi 0
+juqing 0
+juran 0
+jurong 0
+jushuo 0
+juti 0
+jutou 0 0
+juxian 0
+juxing 0
+juyou 1
+juyuan 0
+juzhong 0
+juzi 1 1
+juzun 0
+ka 1 0 0 0 0 0 0 0 0 0 0 0 0
+kai 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kaiban 0
+kaichang 1
+kaiche 0
+kaicheng 0
+kaide 0
+kaiduan 0
+kaifa 1
+kaifang 0
+kaige 0
+kaigong 0
+kaiguan 0
+kaihui 0
+kaiji 2
+kaikuo 0
+kaipeng 0
+kaiqi 7
+kaishi 9
+kaiti 0
+kaitong 1
+kaixin 0
+kaixue 0
+kaizhan 0
+kaizhi 0
+kaluo 0
+kan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kanbi 0
+kandao 0
+kang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kanghui 0
+kangyi 0
+kanhou 0
+kanjian 0
+kankan 0 0
+kanle 0
+kanni 0
+kanshi 0
+kantu 0
+kanwan 0
+kanwo 0
+kanxiao 0
+kanyou 0
+kao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kaobi 0
+kaocha 0
+kaohe 0
+kaohou 0
+kaojin 0
+kaolv 0
+kaoni 0
+kaopu 0
+kaoqin 0
+kaoqu 0
+kaoru 0
+kaosheng 0
+kaoshi 0
+kaotian 0
+kaowan 0
+kaoyan 0
+kapian 0
+ke 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kean 0
+keban 0
+kecheng 0
+keda 0
+kedao 0 0
+kediao 0
+kedou 0
+kefou 0
+kefu 0 0
+kegong 0
+keguan 0
+kehu 0
+kehuo 0
+kei 0 0 0 0 0
+keji 0
+kejian 0 0
+kejiang 0
+kejiao 0
+kejiu 0
+kekao 0
+keke 0 0 0
+kemu 0
+ken 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kending 0
+keneng 13
+keng 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kengdie 0
+kenglai 0
+keni 0
+kepa 0
+kepin 0
+keqi 0
+keqing 0
+keqiu 0
+kequn 0
+keshi 0 0
+ketang 0
+keti 0
+kewai 0
+kexi 0
+kexin 0
+kexing 0
+kexuan 3
+kexue 0
+keyan 5
+keyi 9 0
+keyong 0
+keyou 0
+keyuan 0
+kezai 0
+kezhan 0
+kong 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kongbai 1
+kongbiao 0
+kongfan 0
+kongfu 0
+kongge 1
+kongjian 0 0
+kongma 0
+kongmeng 0
+kongnan 0
+kongpa 0
+kongque 0
+kongshuo 0
+kongtan 0
+kongxiang 0
+kongzhao 0
+kongzhi 6
+kou 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+koucheng 0
+kouling 0
+ku 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kua 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kuadu 0
+kuai 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kuaican 0
+kuaiji 0
+kuaijie 1
+kuaijiejian 1
+kuailai 0
+kuaile 1
+kuaisu 2
+kualei 0
+kuan 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kuandu 0
+kuang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kuangao 0
+kuangding 0
+kuanghuan 0
+kuangjia 61
+kuangqie 0
+kuangsong 0
+kuangtu 0
+kuanguang 0
+kuanxin 0
+kuapingtai 0
+kuasheng 0
+kuaye 0
+kuayu 3
+kucun 0
+kui 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kuibu 0
+kuifa 0
+kun 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kunhuo 0
+kunjing 0
+kunming 0
+kunnan 1
+kuo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+kuochong 0
+kuohao 0
+kuozhan 0
+kuozhang 0
+kuozhanxing 0
+ky 6
+kyi 0
+l 10
+la 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+lada 0
+lai 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+laiba 0
+laiban 0
+laide 0
+laihua 0
+laikan 0
+lailu 0
+laina 0
+lainian 0
+lairen 0
+laishuo 0
+laiwo 0
+laixiao 0
+laixin 0
+laiyuan 0
+laizi 1
+laji 0 0
+lala 0
+lan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+lanbing 0
+lang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+langfei 0
+langlang 0
+langping 0
+langxie 0
+lanjie 0
+lanqiao 0
+lanqiu 0
+lanse 0
+lantan 0
+lanwei 0
+lao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+laoban 0
+laocheng 0
+laoda 0
+laole 0
+laoliang 0
+laoluo 0
+laoshi 0 0
+laotou 0
+laowang 0
+laoxuan 0
+lashen 0
+le 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+lea 0
+leba 0
+lebie 0
+lebing 0
+lede 0
+ledui 0
+lei 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+leida 0
+leiji 0 0
+leiqian 0
+leisi 1
+leitai 0
+leitong 0
+leixing 9
+leizhu 0
+lele 0
+lema 0
+leng 0 0 0 0 0 0 0 0 0 0 0 0 0
+lengfeng 0
+lesan 0
+leshang 0
+lewu 0
+lexiang 0
+lexin 0
+leyuan 0
+lezhuan 0
+li 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+lia 0 0
+lian 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+lianban 0
+lianbang 0
+liandong 0
+liang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+liangci 1
+liangdian 0 0
+liangge 1
+lianggen 0
+lianghao 0 0
+liangliang 0 0 0
+liangmian 0
+liangming 0
+liangre 0
+liangshi 0 0
+liangtian 0
+liangwei 0
+liangxin 0
+liangyi 0
+liangyuan 0
+liangzai 0
+liangzhang 0
+liangzheng 0
+liangzhong 1 0
+liangzhu 0
+lianhe 0
+lianji 1
+lianjian 0
+lianjie 1 0
+lianjiu 0
+lianku 0
+lianmian 0
+lianshang 0
+lianshu 0
+liantong 0
+lianwang 0
+lianxi 0 0
+lianxian 0
+lianxiang 0
+lianxu 1
+liao 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+liaodao 0
+liaojie 0
+liaole 0
+liaotian 3
+libao 0
+libi 0
+libin 0
+lici 0
+lide 0
+lidu 0
+lie 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+liebiao 8
+lieche 0
+liechu 0
+liede 0
+lieju 0
+liele 0
+lieming 0
+liewei 0
+liewen 0
+liezai 0
+ligang 0
+ligui 0
+lihui 0
+liji 4
+lijiang 0
+lijie 0
+lijing 0
+lijiu 0
+lijun 0
+likai 0
+like 1
+lile 0
+lili 0
+liliang 0
+lilun 0
+limao 0
+limian 0
+lin 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+linchuang 0
+ling 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+lingang 0
+lingbei 0
+lingbo 0
+lingdao 0
+linge 0
+linghuo 0
+lingjiang 0
+lingjiao 0
+lingjie 0
+lingkong 0
+lingluan 0
+lingqing 0
+lingqu 0
+lingwai 0
+lingxing 0 0
+lingyou 0
+lingyu 0
+lingyuan 0 0
+linian 0
+linjiang 0
+linse 0
+linshi 4
+linxuan 0
+lipin 0
+liqing 0
+liqiu 0
+liru 10
+lirun 0
+lishi 4 0
+lishu 0
+lishui 0
+lishun 0
+litao 0
+litu 0
+litui 0
+liu 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+liubai 0
+liuchang 0
+liuchen 0
+liucheng 1
+liuda 0 0
+liude 0
+liudong 0
+liuge 0
+liuji 0
+liujian 0
+liukong 0
+liulan 0
+liulanqi 1
+liule 0
+liuliang 0
+liunian 0
+liushi 0
+liutu 0
+liuxia 0
+liuxiao 0
+liuxin 0
+liuyi 0
+liuyou 0
+liuyuan 0
+liuzhong 0
+liuzhu 0
+liwai 0
+lixian 0
+lixiang 0 0
+lixiao 0
+lixue 0
+liyan 0
+liyao 0
+liyong 0
+liyou 0
+liyu 0
+lizheng 0
+lizhi 0 0
+lizi 0
+lo 0
+long 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+longjiao 0
+longqiao 0
+lou 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+loude 0
+loufang 0
+loukong 0
+loule 0
+loupan 0
+loushang 0
+lu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+luan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+luanshuo 0
+lubo 0
+luduan 0
+lue 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+luewei 0
+lufei 0
+lugui 0
+lujing 0
+lun 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+lunbo 0
+lunci 2
+lunli 0
+lunshu 0
+luntan 0
+lunwei 0
+lunwen 0
+lunzheng 0
+luo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+luohe 0
+luoji 2
+luokuan 0
+luolie 0
+luomu 0
+luoshi 0
+luoshuan 0
+luowu 0
+luoxian 0
+luoxiao 0
+luoxuan 0
+luoyu 0
+luozhao 0
+luozhu 0
+luping 0
+luqu 0
+luru 0
+lushuang 0
+luxian 0
+luxiang 0
+luxing 0
+luyin 0
+luyong 0
+luyou 0
+luzhi 0
+lv 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+lvda 0
+lvdian 0 0
+lve 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+lvhe 0
+lvjing 0
+lvlv 0
+lvxing 0
+lvyou 0
+ma 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+made 0
+mafan 0
+mai 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+maidian 0
+maige 0
+maike 0
+maikefeng 1
+maiwan 0
+malu 0
+mama 0
+man 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+mane 0
+manfen 2
+mang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+mangguo 0
+mangma 0
+mangren 0
+manian 0
+manma 0
+manman 0
+manqin 0
+manzu 0
+mao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+maochong 0
+maodian 0
+maoyu 0
+matao 0
+matou 0
+mayu 0
+mayun 0
+mazhong 0
+mazi 0
+me 1 0 0 0 0 0 0 0 0 0
+mei 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+meiceng 0
+meici 1
+meidian 0
+meifa 0
+meifang 0
+meigan 0
+meige 1 0
+meiguan 1 0
+meiguanxi 2
+meigui 0
+meiguo 0
+meihong 0
+meihua 0
+meiji 0
+meijing 0
+meiju 0
+meikong 0
+meilai 0
+meile 0
+meiliu 0
+meinian 0
+meiqi 0
+meiren 0 0
+meiri 0
+meishi 0
+meiti 0
+meitian 0
+meituan 0
+meiwen 0
+meixi 0
+meixiao 0
+meiyan 0
+meiyou 10
+meiyuan 0
+meizai 0
+meizhen 0
+meizhou 0
+men 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+menchuang 0
+menfeng 0
+meng 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+mengban 0
+mengbi 0
+mengdui 0
+menglong 0
+menhao 0
+menya 0
+mi 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+mian 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+mianban 1
+mianbao 0
+miandui 0
+mianfei 0
+mianlin 0
+mianmu 0
+mianqiang 0
+mianshi 0 0 0
+miantan 0
+mianxiang 0
+mianze 0
+miao 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+miaorong 0
+miaosha 0
+miaoshu 1 0
+miaoshuxing 0
+miaoxiao 0
+miaozhun 1
+mibu 0
+mie 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+mima 0
+min 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+minda 0
+ming 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+mingbai 0
+mingcheng 0
+mingci 0
+mingdan 0
+minghua 0
+mingju 0
+mingling 1
+mingming 0 0
+mingnian 0
+mingpian 0
+mingque 0
+mingren 0
+mingshi 0
+mingti 0
+mingtian 0
+mingwang 0
+mingwen 0
+mingxian 0
+mingxing 0
+mingyan 0
+mingzao 0
+mingzhong 0
+mingzi 1
+minhang 0
+minhuang 0
+minhui 0
+minsheng 0
+minsu 0
+minyang 0
+minzhang 0
+minzhu 0
+minzu 0
+mishu 0
+miu 0 0 0 0
+mo 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+moban 0
+moer 0
+mofa 0
+mohu 0
+mokuai 0
+moni 4
+moren 27
+morenzhi 0
+moshi 11
+mosun 0
+mosuo 0
+mou 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+mouge 0
+mouji 0
+moumou 0
+mouri 0
+mouxie 1
+mouzhong 0
+mouzui 0
+mowei 0
+mowu 0
+moxing 0
+moyuan 0
+mozhuo 0
+mu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+muban 0
+mubiao 1
+muchuang 0
+mudi 0 0
+muge 0
+mulu 2
+mulushu 1
+muqian 6
+muyuan 0
+muzhi 0
+n 1 0 0 0
+na 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+nabian 0
+nachu 0
+naer 0 0
+nage 2 0
+nahai 0
+nai 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+naihe 0
+naizhi 0
+nali 0
+name 0
+nan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+nancai 0
+nanda 0
+nandao 0
+nande 0
+nandian 0 0
+nandu 0
+nang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+nanhang 0
+nani 0
+nanji 0
+nanjing 0
+nanlu 0
+nanmian 0
+nanrui 0
+nansheng 0
+nantong 0
+nanyi 0
+nanzhan 0
+nanzi 0
+nao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+napa 0
+naqu 0
+nashi 0
+natian 0
+nawei 0
+nawo 0
+naxie 0 0
+nayang 0
+nayou 0
+nazhong 0
+nazui 0
+ne 0 0 0 0 0 0 0 0 0 0 0
+nei 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+neibu 0
+neicun 2
+neide 0
+neihan 0
+neihao 0
+neihe 0
+neihua 0
+neiju 0
+neimao 0
+neimo 0
+neiqian 0
+neirong 9
+neiwai 0
+neiwang 0
+neixiu 0
+neizai 0
+neizhi 0
+nen 0 0 0 0 0 0 0
+neng 2 0 0 0 0
+nengan 0
+nengbo 0
+nengdao 0
+nengdui 0
+nengfou 0
+nenggou 1
+nenghui 0
+nengkan 0
+nengli 0
+nengliang 0
+nengyuan 0
+nengzuo 0
+ng 1 0
+ni 4 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+nian 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+nianchao 0
+nianchu 0
+niande 0
+niandi 0
+niandu 0
+niang 0 0 0 0 0 0
+niangao 0
+nianji 0
+nianjun 0
+nianling 0
+nianmian 0
+niannei 0
+niannian 0
+nianqian 0
+nianqing 0 0
+nianshi 0
+nianshou 0
+nianya 0
+nianyu 0
+nianzhong 0
+niao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+niba 0
+nicheng 0
+nichu 0
+nide 1
+niding 0
+nidui 0
+nie 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+niexiang 0
+niezhi 0
+nifa 0
+nigei 0
+nihai 0
+nihao 0
+nihe 0
+nijian 0
+nijin 0
+nijiu 0
+nile 0
+nili 0
+nimei 0
+nimen 0
+niming 0
+nin 0 0 0 0 0
+nincong 0
+ninde 0
+nineng 0
+ninfa 0
+ning 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ninghang 0
+ningju 0
+ningke 0
+ninglian 0
+ningwei 0
+nini 0
+ninyou 0
+ninyu 0
+nipin 0
+niqu 0
+nishe 0
+nishi 0
+nishuo 0
+nisuo 0
+niu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+niuyue 0
+niwei 0
+niwo 0
+nixian 0
+nixiang 0
+nixie 0
+niyao 0
+niyi 0 0 0
+niyou 0
+niyu 0
+nizai 0 0
+nizhe 0
+nizuo 0
+nong 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+nongcun 0
+nongli 0
+nongsuo 0
+nou 0 0 0 0 0 0 0 0 0 0 0 0 0
+nu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+nuan 0 0 0 0 0 0 0 0
+nue 0 0 0 0
+nuli 0
+nuo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+nuolan 0
+nv 0 0 0 0 0 0 0 0 0 0 0 0 0
+nve 0 0 0 0
+nver 0
+nvshi 0
+nvwang 0
+o 3 0 0 0
+ou 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+oude 0
+ouhe 0
+ouran 0
+ouwen 0
+ouzhou 0
+pa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+pai 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+paibi 0
+paicha 3
+paichu 0
+paide 0
+paihang 1
+paihangbang 0
+paijiang 1
+pailie 0
+paimai 0
+paiming 1
+paishang 0
+paishe 0
+paixu 0
+pan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+panbie 0
+panbo 0
+panding 0
+panduan 6
+pang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+panguang 0
+panpan 0
+pao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+paochu 0
+paolou 0
+paozhi 0
+pashan 0
+pei 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+peibei 0
+peican 0
+peide 0
+peifu 0
+peihe 0
+peiling 0
+peisong 0
+peitao 0
+peixun 0
+peiyang 0
+peiyi 0
+peiyu 0
+peizhi 10
+pen 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+peng 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+pengchao 0
+pengdao 0
+penggao 0
+penghe 0
+pengle 0
+pengpengche 0
+pengyong 0
+pengyou 0
+pengzhuang 1
+penhui 0
+pi 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+pian 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+pianhao 0
+pianren 0
+piantou 1
+piao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+piaojia 0
+piaoju 0
+piaokan 0
+piaoliang 0
+piaopiao 0
+pie 0 0 0 0 0 0 0 0 0 0 0 0 0
+pifu 0
+piliang 1
+pilin 0
+pin 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+pinbo 0
+pinde 0
+pindie 0
+pindu 1
+pinfan 1
+ping 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+pingdan 0
+pingding 0
+pingfan 1
+pingfen 3
+pinggu 2
+pingguo 0
+pinghua 0
+pingjia 0
+pingjiang 0
+pingjun 0
+pinglin 0
+pingmian 0
+pingmu 6
+pingpan 0
+pingping 0
+pingshen 0
+pingshi 0
+pingtai 0
+pingwei 0
+pingyi 0
+pingyou 0
+pingyu 0
+pinjie 1
+pinle 0
+pinpai 0
+pinqing 0
+pinshu 0
+pinyin 0
+pipei 4
+pizhu 0
+pizhun 0
+po 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+poduo 0
+pohuai 0
+pojiu 0
+poshou 0
+pou 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+pu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+pubian 0
+pubu 0
+pubushuru 1
+puchen 0
+pugongying 0
+puji 0
+pushi 0
+putao 0
+putong 6
+qi 3 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+qia 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+qian 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+qiandao 0
+qianduan 0 0
+qianfei 0
+qiang 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+qiangang 0 0
+qiangbi 1
+qiangda 0
+qiangdiao 0
+qiangdu 0
+qianghua 3
+qianghuaban 1
+qiangli 0
+qianglie 0
+qiangqiang 0
+qiangqiu 0
+qiangruo 0
+qiangsheng 0
+qiangzhi 0
+qiangzhuang 0
+qianhou 0
+qianjin 0
+qianjing 0
+qianlai 0
+qianlou 0
+qianmian 0
+qianming 0
+qianqi 0
+qianru 0
+qiantao 0
+qianti 0
+qiantu 0 0
+qianwan 0
+qianwang 0
+qianxi 0
+qianyan 0 0
+qianyao 0
+qianye 0
+qianyi 0 0
+qianzhe 0
+qianzheng 0
+qianzi 0
+qiao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+qiaogan 0
+qiaolong 0 0
+qiaomiao 0
+qiaoming 0
+qiba 0
+qibei 0
+qibing 0
+qibu 0 0
+qicai 0
+qiche 0 0
+qichu 0
+qici 0
+qidai 0
+qidong 17
+qie 7 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+qiege 3
+qiehe 0
+qiehuan 5
+qieji 0
+qiemi 0
+qiepan 0
+qieshi 0
+qiewei 0
+qieyou 0
+qifa 0
+qifei 0
+qigao 0
+qiguai 0
+qihe 0
+qijian 1 0 0
+qijiyinqiao 0
+qiju 0
+qikan 0
+qilai 0
+qilv 0
+qimei 0
+qin 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+qing 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+qingba 0
+qingbao 0
+qingchu 0 0
+qingdai 0
+qingdan 0
+qingdao 0 0
+qingdu 0
+qingjia 0
+qingjiang 0
+qingjiao 0
+qingjiu 0
+qingkan 1
+qingkong 4 0
+qingkuang 5
+qingli 3
+qingliang 0 0
+qinglv 0
+qingming 0
+qingni 0
+qingnian 0
+qingnin 0
+qingqing 0
+qingqiu 1
+qingse 0
+qingshi 0
+qingsong 0
+qingtian 0
+qingting 0
+qingwen 0
+qingwu 2
+qingxi 0
+qingxiang 0
+qingxin 0 0
+qingxing 0
+qingxu 0
+qingyin 0
+qingyong 0
+qingzai 0
+qinlin 0
+qinqing 0
+qinquan 1
+qiong 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+qiongjiang 0
+qipa 0
+qipian 0
+qiqiu 2
+qiquan 0
+qishang 0 0
+qishen 0
+qishi 5 0
+qita 14 0
+qiu 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+qiujiao 0
+qiuxiao 0
+qiuyou 0
+qiuzheng 0
+qiuzhi 0
+qiuzhu 0
+qiwang 0
+qiwei 0
+qiwo 0
+qixia 0
+qixian 0
+qiye 0
+qiyi 0 0
+qiyong 1 0
+qiyu 0
+qiyuan 0
+qizai 0
+qizhi 0
+qizhong 1 0
+qu 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+quan 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+quanban 0
+quanbu 0
+quandeng 0
+quandian 0
+quanguo 1
+quanhang 0
+quanhe 0
+quanji 0
+quanli 0
+quanmian 0
+quanmin 1
+quanping 12
+quansheng 0
+quanshi 0
+quantao 0
+quanti 0
+quantu 0
+quanwang 0
+quanwei 0
+quanwen 0
+quanxian 3
+quanxiao 0
+quanyuan 0
+quba 0
+qubie 0
+quchu 1 0
+qudao 0
+qude 0
+qudiao 1
+qudong 0
+que 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+quebao 5
+quecong 0
+quedian 0
+queding 0
+quee 0
+quefa 0
+queqie 0
+queren 0
+queshi 0 0
+quewei 0
+quexian 0
+quezai 0
+qufen 0
+qule 0
+qulou 0
+quming 0
+qun 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+qunba 0
+qunian 0
+qunluo 0
+qunnei 0
+qunzhong 0
+qunzhu 0
+qunzi 0
+qunzu 0
+qupiao 0
+quqi 0
+qushe 0
+qushi 0 0
+quxian 0
+quxiang 0 0
+quxiao 0
+quyu 7
+quzhi 0
+quzuo 0
+ran 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+raner 0
+rang 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+rangdi 0
+rangni 0
+rangnin 0
+rangren 0
+rangta 0 0 0
+rangwo 0
+ranhou 1
+rao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+raoguo 0
+re 1 0 0 0 0 0 0 0 0
+remen 0
+ren 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+rencai 0
+renci 0
+rende 0
+rending 0
+reng 0 0 0 0 0 0 0 0 0 0
+rengong 0
+renhe 0
+renjun 0
+renke 0
+renli 0
+renlian 0
+renmen 0
+renqi 0 0
+renshi 0 0
+renshou 0
+renshu 0
+rentong 0
+renwei 1 0
+renwu 2 0
+renyi 0
+renyong 0
+renyou 0
+renyu 0
+renyuan 0
+renzhen 0
+renzheng 0
+reqing 0
+rexin 0
+ri 0 0 0 0 0 0 0
+richang 0
+ridai 0
+rihou 0
+rile 0
+rili 0
+riwen 0
+riyi 0
+rizhi 6
+rizhu 0
+rong 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+rongchang 0
+rongchao 0
+rongcuo 1
+ronghe 0
+rongru 0
+rongyi 0
+rongyu 0
+rou 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+rouxing 0
+ru 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ruan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ruangong 0
+ruanhua 0
+ruanjian 0
+ruansun 0
+ruanying 0
+ruci 0
+rucong 0
+rudeng 0
+ruguo 22
+ruhe 0
+rui 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ruisi 0 0
+ruizhi 0
+rukou 3
+rumen 0
+run 0 0 0 0 0 0 0
+runhua 0
+runnian 0
+ruo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ruogan 0
+ruoneng 0
+ruoni 0
+ruoshi 0
+ruoyao 0
+ruoyou 0
+rushan 0
+ruwei 0
+ruwu 0
+ruxia 1
+ruyue 0
+ruzhu 0
+sa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+sai 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+saihou 0
+saihuo 0
+saijin 0
+saima 0
+sainan 0
+saiyou 0
+san 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+sanban 0
+sanceng 0
+sanci 0
+sanda 0
+sang 0 0 0 0 0 0 0 0 0 0 0 0 0
+sange 0
+sanhu 0
+sanhui 0
+sanjian 0
+sanni 0
+sannian 0
+santian 0
+santu 0
+sanwei 0 0
+sanwen 0 0
+sanxing 0
+sanzhe 0
+sanzhong 0
+sao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+saolei 0
+saoma 2
+saomiao 0
+sasa 0
+sasan 0
+sazai 0
+sazhong 0
+se 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+sen 0 0 0 0 0 0 0 0
+seng 0 0
+senlin 0
+sha 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shadeng 0
+shai 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shaixuan 0
+shan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shanchu 3
+shanding 0
+shang 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shangban 0
+shangbanshen 0
+shangbao 9
+shangbu 0
+shangche 0
+shangcheng 0
+shangchuan 5
+shangci 0
+shangd 0
+shangde 0
+shangdou 0
+shangfan 0
+shangfu 0
+shangguo 0
+shanghai 0
+shanghe 0
+shangji 0 0 0
+shangjia 15
+shangjun 0 0
+shangkan 0
+shangke 0 0 0
+shanglai 0
+shangle 0 0
+shangli 0
+shangliang 0
+shangmian 0
+shangpin 0
+shangqi 0
+shangqu 0
+shangren 0
+shangshi 0
+shangshu 2
+shangwang 0
+shangwei 0
+shangwu 0 0
+shangxia 0
+shangxian 0 0
+shangxin 0
+shangyao 0
+shangyu 0
+shangzhe 0
+shanhou 0 0
+shanjian 0
+shanmei 0
+shanqu 0
+shanshan 0
+shantui 0
+shanxi 0 0
+shanyu 0
+shanzhai 0
+shanzhuang 0
+shanzi 0
+shao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shaocha 0
+shaocheng 0
+shaoda 0
+shaohao 0
+shaohou 2 0
+shaoliang 0
+shaonian 0
+shaotai 0
+shaowen 0
+shaoxian 0
+shaoyu 0
+she 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shebao 1
+shebei 2
+shefa 0
+shehui 0
+shei 0
+sheji 1 1 0
+shejiao 0
+shelie 0
+shemi 0
+shen 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shenao 0
+shenban 0
+shenbao 0
+shenbian 0
+shencha 0
+shenchu 0
+shendu 0
+shenfen 0
+sheng 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shengchan 0
+shengcheng 4 0
+shengcun 0
+shengdao 3
+shengde 0
+shengfen 0
+shengfu 0
+shenghui 0
+shenghuo 0
+shengji 0 0
+shengle 0
+shengli 0
+shenglue 0
+shengming 0 0
+shengmingzhi 0
+shengqi 0
+shengqian 0
+shengqing 0
+shengqu 0
+shengren 0
+shengri 0
+shengsheng 0
+shengshi 0
+shengting 0
+shengxia 0
+shengxiao 0
+shengxun 0
+shengyin 0
+shengyuan 0
+shenhe 0
+shenhua 0
+shenji 0
+shenjie 0
+shenjing 0
+shenke 0
+shenme 0
+shenming 0
+shenpi 0
+shenqi 0
+shenqing 1
+shenru 0
+shensu 0
+shenti 0
+shentou 0
+shenwen 0
+shenyang 0
+shenyou 0
+shenyuan 0
+shenyue 0
+shenzao 0
+shenzhen 0
+shenzhi 0
+shepin 0
+shequ 0
+sheshi 0
+shetou 0
+shewai 0
+shewei 0
+shexiang 0
+sheying 0
+shezhang 0
+shezhi 11
+shi 8 57 13 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shia 0
+shibai 7
+shibiao 0
+shibie 7
+shibielv 0
+shicha 0
+shichang 7 0
+shici 0
+shicong 0
+shida 0
+shidai 0
+shidang 0
+shide 0 0 0
+shidi 0
+shidian 0 0
+shidu 0
+shiduan 0
+shidui 0
+shiduo 0
+shier 0
+shifan 0
+shifen 0
+shifou 18
+shigai 0
+shigan 0
+shige 0 0 0 0
+shigong 0
+shigu 0 0 0
+shiguan 0
+shiguo 0
+shih 0
+shihe 0
+shihou 0 0
+shihuai 0
+shiji 5 0
+shijia 0
+shijian 27 16 0
+shijianchuo 7
+shijianduan 0
+shijiao 0
+shijie 0
+shijieguan 0
+shijing 0
+shiju 0
+shijuan 0
+shijue 0
+shijun 0
+shike 0
+shikong 0
+shilai 0
+shili 0 0 0 0
+shilihua 0
+shiliu 1 0
+shiliujinzhi 1
+shilou 0
+shima 0
+shimao 0
+shiming 0
+shinan 0
+shinei 0
+shipei 1
+shipin 13 0
+shiqi 0 0
+shiqing 0
+shiqu 0
+shisheng 0
+shishi 1 0 0 0 0
+shishui 0
+shitang 0
+shiti 0
+shitiao 0
+shitu 0 0 0
+shiwang 0
+shiwei 1
+shiwo 0
+shiwu 0
+shixi 0
+shixian 5
+shixiang 3 0
+shixiao 0 0
+shixiaoxing 0
+shixing 0
+shixu 0
+shixun 0
+shiyan 0 0 0
+shiyao 0 0
+shiye 0 0
+shiyi 0 0
+shiying 0
+shiyong 24 0 0 0
+shiyou 0
+shiyu 0 0
+shizai 0 0
+shizhan 0
+shizheng 0
+shizhi 0
+shizhong 1
+shizi 0
+shou 6 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shouban 0
+shoubi 0
+shoucang 0
+shouce 0
+shouci 3
+shoucuo 0
+shoudao 6 0
+shoude 0 0
+shoudong 4
+shoudu 0
+shouduan 0
+shoufa 0
+shoufang 0
+shoufei 0
+shoufu 0
+shougan 0
+shouhang 0
+shouhui 0
+shouhuo 0
+shouji 8 0
+shoujiduan 3
+shoujihao 1
+shouke 0
+shoukong 0
+shoulei 0
+shoulian 0
+shoulu 0
+shouming 0
+shoupin 0
+shouqi 0 0
+shouqiang 0
+shouquan 1
+shouru 0
+shoushang 0
+shoushen 0
+shousuo 0
+shoutang 0
+shouwan 0
+shouwei 0 0
+shouxian 0 0
+shouxu 0
+shouyan 0
+shouyao 0
+shouye 0
+shouyi 0
+shouzhang 0
+shouzhi 0 0
+shu 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shua 0 0 0 0 0 0 0 0
+shuai 0 0 0 0 0 0 0 0 0 0 0 0
+shuaidao 0
+shuan 0 0 0 0 0 0 0 0 0 0 0
+shuang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shuangbian 0
+shuangchuang 0
+shuangji 0
+shuangkuai 0
+shuanglong 0
+shuangran 0
+shuangshuang 0
+shuangxue 0
+shuangying 0
+shuaxin 0
+shubai 0
+shubiao 0 0
+shubo 0
+shucheng 0
+shuchu 13
+shudao 0
+shude 0
+shudian 0
+shufa 0
+shui 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shuidian 0
+shuigai 0
+shuigei 0
+shuijiao 0
+shuiniu 0
+shuiping 0
+shuishou 0
+shuiwu 0
+shuiya 0
+shuji 0 0
+shuju 9
+shujuku 1
+shuli 0
+shulian 0
+shuliang 0
+shulou 0
+shumian 0
+shun 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shunbian 1
+shunfeng 0 0
+shunli 0
+shunxin 0
+shunxu 0
+shunying 0
+shuo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+shuoci 0
+shuodao 0 0
+shuode 0
+shuoguo 0
+shuohao 0
+shuohua 0
+shuojin 0
+shuoming 7
+shuoni 0
+shuoshi 0 0
+shuping 5
+shuqi 0
+shuqing 0
+shuru 15
+shurufa 4
+shurukuang 0
+shusheng 0
+shushi 0 0
+shusong 0
+shuwo 0
+shuxi 0
+shuxing 0
+shuxue 0
+shuye 0
+shuyu 0 0
+shuzhi 0
+shuzi 0
+shuzu 1
+si 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+sibu 0
+sichou 0
+sifeng 0
+sige 0
+sihu 0
+siji 0
+sikao 0
+sile 0
+silu 0
+sinian 0
+siren 0
+siwang 0
+siwei 0 0
+sixiang 0
+siyao 0
+siyou 0
+sizhang 0
+sizhong 0
+sm 0
+song 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+songde 0
+songfei 0
+songren 0
+songshen 0
+songyan 0
+sou 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+sougou 0
+sousuo 0
+su 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+suan 2 0 0 0 0 0 0 0 0 0 0 0 0
+suanchu 0
+suanfa 0
+suanfen 0
+sucai 0
+sudu 0
+sufa 0
+suhang 0
+sui 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+suiji 5
+suiran 0
+suishen 0
+suishi 0
+suiwei 0
+suiyue 0
+suizhou 0
+suizhuo 0
+sumiao 0
+sun 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+sundian 0
+sunhai 0
+sunhui 0
+sunmai 0
+sunshi 0
+suo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+suodai 0
+suode 0
+suoding 0
+suoduan 0
+suofang 0
+suohan 0
+suojian 0
+suojin 0
+suokou 0
+suolue 0
+suoluetu 0
+suoni 0
+suopei 0
+suopin 0
+suoqiu 0
+suoque 0
+suoshe 0
+suoshi 0
+suoshu 0 0
+suoshuo 0
+suoti 0
+suotuo 0
+suowei 0
+suoxi 0
+suoxiang 0
+suoxiao 0
+suoxie 0
+suoxu 0
+suoxuan 0
+suoxue 0
+suoyi 0
+suoyin 0
+suoying 0
+suoyou 3
+suoyuan 0
+suozai 0
+suozhang 0
+suozuo 0
+suqian 0
+sushe 0
+sushi 0
+suyang 0
+suyuan 0 0
+suzhi 0
+suzhou 0
+suzhu 0
+suzhuang 0
+ta 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tachuan 0
+tade 0 0
+tahe 0
+tai 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+taida 0
+taiduan 0
+taiduo 0
+taigao 0
+taiguo 0
+tailao 0
+tairan 0
+taishao 0
+taitai 0
+taitao 0
+taitou 0
+taiyuan 0
+taizhou 0
+tajun 0
+tale 0
+talv 0
+tamen 0 0
+tamiao 0
+tan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tanchu 0
+tanchuang 0
+tanchukuang 0
+tandao 0
+tang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tanghui 0 0
+tangsong 0
+tangwei 0
+tangzhuo 0
+tanhua 0
+tanji 0
+tankuang 0
+tanran 0
+tansuo 0
+tantao 0
+tantu 0
+tanxiong 0
+tao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+taoge 0
+taolu 0
+taolun 0
+taosong 0
+taotai 0
+taoyuan 0
+taren 0
+tashi 0
+tawen 0
+tawo 0
+te 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tebie 3
+teci 0
+tedian 0
+teding 0
+tehua 0
+tei 0
+teng 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tengxun 0
+tequan 0
+tese 0
+teshu 1
+texiao 0
+texing 0
+teyi 0
+teyou 0
+tezheng 0
+ti 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tian 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tianbao 0
+tianbiao 0
+tianchong 0
+tianji 0
+tianjia 37
+tianjin 0
+tiankong 0
+tianlin 0
+tianming 0
+tianqi 0
+tianru 0
+tianshang 0
+tianwen 0
+tianxia 0
+tianxie 0
+tianyu 0
+tianyue 0
+tianze 0
+tiao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tiaochu 0
+tiaode 0
+tiaoji 0
+tiaojian 0
+tiaoli 0
+tiaolu 0
+tiaoma 0
+tiaomu 0
+tiaoshi 10
+tiaoshu 0
+tiaotong 0
+tiaozao 0
+tiaozhan 0
+tiaozheng 6
+tiaozhuan 1
+ticao 0
+tichu 0
+tidai 0
+tidaipin 0
+tidao 1
+tidui 0
+tie 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tiedao 0
+tiede 0
+tiejin 0
+tielu 0
+tieshang 0
+tiezai 0
+tiezhi 0
+tiezi 0
+tifa 0
+tigang 0
+tigao 0
+tigong 1
+tihuan 1
+tiji 0
+tijian 0
+tijiao 0
+tilian 0
+timu 0
+ting 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tingcheng 0
+tingde 0
+tinghao 0
+tingji 0
+tingju 0
+tingke 0 0
+tingle 0
+tingliu 1
+tingpan 0
+tingshuo 0
+tingting 0
+tingyou 0
+tingzhi 0
+tingzhuo 0
+tini 0
+tiqian 1
+tiqu 0
+tisheng 1
+tishi 1
+tishikuang 0
+tiwei 0 0
+tiwen 0
+tixi 0
+tixian 0
+tixing 0 0
+tiyan 1
+tiyu 0
+tizhi 0
+tong 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tongban 0
+tongbao 0
+tongbu 1
+tongchang 3
+tongchangzai 2
+tongdian 0
+tongduan 0
+tongguo 11
+tonghang 0
+tonghua 0
+tongji 3 0
+tongku 0
+tonglu 1
+tongming 0
+tongqu 0
+tongshan 0
+tongshang 0
+tongshi 0 0
+tongshun 0
+tongtong 0
+tongtu 0
+tongxiao 0
+tongxin 0
+tongxing 0
+tongxu 0
+tongxue 0 0
+tongxun 0
+tongyang 0
+tongyi 3 0 0
+tongyige 0
+tongyitao 0
+tongyong 0
+tongzhi 4 0
+tongzhuo 0
+tongzuo 0
+tou 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+toubu 0
+touchu 0
+touchuan 2
+toufa 0
+toufang 0
+touming 1
+touru 0
+touteng 0
+toutiao 0
+toutong 0
+touxian 0
+touxiang 3
+touzi 0
+tu 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tuan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tuandui 0
+tuangou 0
+tuanti 0
+tuanwei 0
+tuanyuan 0
+tubiao 0 0
+tubu 0
+tucao 0
+tuchu 0
+tufa 0
+tuhe 0
+tui 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tuibu 0
+tuichi 0
+tuichu 14 0
+tuidan 0
+tuidao 0 0
+tuiguang 0
+tuihuan 0
+tuihui 0
+tuijian 0
+tuijie 0
+tuijin 0
+tuikuan 0
+tuili 0
+tuisong 2
+tuixiu 0
+tuiyou 0
+tuizheng 0
+tuji 0
+tujie 0
+tujin 0
+tujing 0
+tukuai 0
+tun 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tunbu 0
+tuniu 0
+tuo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tuodang 0
+tuodao 0
+tuodong 0
+tuofu 0
+tuohuang 0
+tuoji 0
+tuojie 0
+tuopu 0
+tuoru 0
+tuoshan 0
+tuotuo 0
+tuozhan 0
+tupian 3
+tupo 0
+tuque 0
+turan 0
+tushi 0
+tushu 0
+tuwen 0
+tuxian 0
+tuxiang 0
+tuxing 0
+tuyuan 0
+tuzhong 0 0
+wa 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+waer 0
+wai 0 0 0 0 0 0 0 0 0 0
+waibao 0
+waibiao 0
+waibu 0
+waichu 0
+waichuan 0
+waide 0
+waifang 0
+waiguan 0
+waiguo 0
+waihui 0
+waiji 0
+waijiao 0
+waijie 0
+waini 0
+waishi 0 0
+waiti 0
+waiwang 2
+waiwen 0
+waixian 0
+waiyan 0
+waiyu 0
+waiyuan 0
+waizai 0
+wajue 0
+wan 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+wanbei 0
+wanbi 0
+wanbing 0
+wanbu 0
+wancheng 3
+wande 0
+wanfa 1
+wanfan 0
+wang 4 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+wangbao 0
+wangci 4
+wangcong 0
+wangde 0
+wangdian 0 0
+wangfan 0
+wangge 0
+wanggou 0
+wangguan 0
+wanghai 0
+wangji 0
+wangka 0
+wangliang 0
+wanglin 0
+wangluo 0
+wangni 0
+wangong 0
+wangpai 0
+wangpan 0
+wangping 0
+wangqiao 0
+wangshang 0
+wangtie 0
+wangtou 0
+wangwen 0
+wangxian 0
+wangxiao 0
+wangye 27
+wangyin 0
+wangyou 0 0 0
+wangzai 0
+wangzhan 0
+wangzhi 0
+wangzhuo 0
+wangzu 0
+wanjia 5
+wanju 0
+wanle 0 0
+wanli 0
+wanliu 0
+wanmei 0
+wanquan 1
+wanshan 1
+wanshang 0
+wanshi 0
+wanshua 0
+wanwang 0
+wanwu 0
+wanxi 0
+wanxiao 0
+wanyi 0
+wanyier 0
+wanyuan 0
+wanzheng 0
+wei 64 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+weian 0
+weibo 0
+weibu 0
+weichi 0
+weici 0
+weicou 0
+weidao 0 0
+weideng 0 0
+weigeshi 1
+weiguan 0
+weihai 0
+weihe 0
+weihu 0
+weiji 0 0
+weijian 0
+weilai 0
+weile 0
+weili 0
+weinan 0 0 0
+weineng 0
+weinin 0
+weiqi 0
+weiqun 0
+weiruan 0 0
+weisheng 0
+weita 0
+weitao 0
+weitong 0
+weituo 0
+weiwei 0
+weixian 0
+weixianweixin 1
+weixie 0
+weixin 5
+weiyi 2
+weiyu 0
+weiyuan 0
+weiyue 0
+weiyun 0
+weizhang 0
+weizhi 7 2
+weizhong 0
+weizhu 0
+weizhun 0
+wen 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+wenan 0
+wenben 0
+wenda 0
+wendang 1
+wende 0
+wenfa 0
+weng 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+wengao 0
+wenhai 0
+wenhao 0
+wenhou 0
+wenhua 0
+wenjian 14
+wenjianjia 0
+wenjianming 0
+wenjuan 2
+wenke 0
+wenneng 0
+wennuan 0
+wensha 0 0
+wenshu 0
+wenti 12
+wenxia 0
+wenxian 0
+wenxue 0
+wenyi 0
+wenze 0
+wenzhang 0
+wenzhong 0
+wenzhou 0
+wenzi 2
+wo 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+woba 0 0
+woban 0
+wodao 0
+wode 1 0
+wodou 0
+woguo 0
+wohai 0
+wohe 0
+wohen 0
+wohui 0
+wojiang 0
+wojiu 0
+woju 0
+wokan 0
+wolai 0
+wolia 0
+wom 0
+womei 0
+women 0
+woni 0
+wopei 0
+wopu 0
+woshang 0
+wosheng 0
+woshi 0
+woshishi 0
+woshuo 0
+woxiang 0
+woxiao 0
+woyao 0
+woye 0
+woyi 0
+woyong 0
+woyu 0
+woyuan 0
+wozai 0 0
+wozhe 0
+wu 6 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+wubi 0 0
+wucha 1
+wuchi 0
+wuchu 0
+wucong 0
+wuda 0
+wude 0
+wudeng 0
+wudi 1
+wudong 0
+wuduan 0
+wufa 7
+wufeng 0
+wuguan 0
+wuguo 0
+wuhan 0
+wuhao 0
+wujie 0
+wuli 1 0 0
+wuliang 0
+wuliao 0
+wulin 0
+wuliu 0 0
+wulong 0
+wulun 0
+wumeng 0
+wumingzhi 0
+wunao 0
+wunian 0
+wuqiong 0
+wuren 1
+wushi 0 0
+wuti 0
+wuxi 0
+wuxian 0
+wuxiao 0
+wuxing 0
+wuxiu 0
+wuxu 0
+wuyi 0 0
+wuyiyi 1
+wuyong 0
+xi 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xia 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xiaban 0
+xiabanshen 0
+xiabing 0
+xiabu 0
+xiache 0
+xiaci 1 0
+xiade 0
+xiafang 5
+xiaguan 0
+xiake 0
+xialai 0
+xialie 0
+xiamen 0
+xiamian 0
+xian 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xianba 0
+xianchang 0
+xiancheng 0
+xiandai 0
+xiang 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xiangban 0
+xiangbi 0
+xiangci 0
+xiangdang 0
+xiangdui 0
+xiangfa 0 0
+xiangge 0
+xiangguan 5
+xianggui 0
+xianghao 0
+xianghu 0
+xiangjian 0
+xiangjiao 0
+xiangjin 0
+xiangkuang 0
+xiangmu 0
+xiangna 0
+xiangnong 0
+xiangpu 0
+xiangqi 0
+xiangqing 0
+xiangrikui 0
+xiangshan 0
+xiangshi 0
+xiangshu 0
+xiangtong 5
+xiangxi 1
+xiangxiang 0 0
+xiangxin 0
+xiangying 0 0
+xiangyou 0
+xianhai 0
+xianhe 0
+xianjiang 0
+xianjiao 0
+xianka 0
+xianlin 0
+xianlu 0
+xianmu 0
+xianqi 0 0
+xianquan 0
+xianran 0
+xianren 0
+xianshang 0
+xiansheng 0
+xianshi 24 0 0
+xianshu 0
+xiansu 0
+xiansuo 0
+xianxia 1
+xianxiang 0
+xianyan 0
+xianyong 0
+xianyou 0
+xianyu 0
+xianzai 0
+xianzhi 0
+xianzhu 0
+xianzhuang 0
+xianzuo 0
+xiao 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xiaoban 0
+xiaochan 0
+xiaochang 0
+xiaochen 0
+xiaochu 0
+xiaodi 0
+xiaodong 0
+xiaodou 0 0
+xiaodu 0
+xiaofa 0
+xiaofang 0 0 0
+xiaofei 0
+xiaogou 0
+xiaoguo 0
+xiaoguotu 0
+xiaohai 0
+xiaohao 0
+xiaohe 0
+xiaohei 0
+xiaohui 0
+xiaoji 0
+xiaojia 0
+xiaojian 0
+xiaojiang 0
+xiaojun 0
+xiaokeng 0
+xiaolai 0
+xiaolong 0 0
+xiaolv 0
+xiaomiao 0
+xiaomie 0
+xiaonei 0
+xiaoning 0
+xiaopan 0
+xiaopin 0
+xiaoping 0
+xiaoqi 0
+xiaoqu 0 0
+xiaoruo 0
+xiaosheng 0
+xiaoshi 0 0
+xiaoshou 0
+xiaosong 0
+xiaowai 0
+xiaowang 0
+xiaowei 0
+xiaowen 0
+xiaoxi 1
+xiaoxia 0
+xiaoxiao 0
+xiaoxie 0
+xiaoxin 1
+xiaoxu 0
+xiaoyang 0
+xiaoyao 0
+xiaoyi 0
+xiaoyu 0
+xiaoyuan 0 0
+xiaozhang 0 0 0
+xiaozhi 0
+xiaozu 0
+xiaqu 0
+xiashu 0
+xiashuang 0
+xiashui 0
+xiatian 0
+xiatu 0
+xiawen 0 0
+xiawu 0
+xiaxian 0
+xiaxing 0
+xiayan 0
+xiayi 0 0
+xiayishou 2
+xiazai 0
+xiazhai 0
+xiazhou 0
+xibei 0
+xibu 0
+xichu 0
+xie 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xiechu 0
+xiedai 0
+xiedan 0
+xiede 0 0
+xiehui 0
+xiejue 0
+xielou 1
+xieman 0
+xiemin 0
+xieru 1
+xietiao 0
+xietong 0
+xiexie 0
+xiexu 0
+xieyi 20
+xiezai 0
+xiezuo 0 0
+xifang 1
+xifu 0
+xigai 0
+xigua 0
+xiguan 1
+xihua 0
+xihuan 0
+xijie 0
+xilie 1
+xilu 0
+xiluo 0
+xin 5 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xina 0
+xinan 0
+xinashi 0
+xinban 0
+xinbian 0
+xinchou 0
+xincun 0
+xinda 0
+xinde 0 0 0
+xindou 0
+xinfeng 0
+xing 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xingbie 0
+xingcheng 0 0
+xingda 0
+xingde 0 0
+xingdeng 0
+xingdong 0
+xingfu 0
+xingguan 0
+xinghao 0 0
+xinghe 0
+xingma 0
+xingme 0
+xingming 0
+xingneng 3
+xingong 0
+xingqu 0
+xingrong 0
+xingshi 0 0
+xingu 0
+xinguan 0
+xingwei 3
+xingwen 0
+xingxiang 0
+xingxing 1
+xingye 0
+xingzheng 0
+xingzhi 0
+xingzhuang 0
+xinhao 0
+xinji 0
+xinjian 0 0
+xinjiu 0
+xinku 0
+xinlai 0
+xinlang 0
+xinli 0
+xinnian 0 0
+xinpian 0
+xinshang 0
+xinsheng 0
+xintao 0
+xintiao 0
+xintiaobao 2
+xintong 0
+xinwen 0
+xinxi 12
+xinxiang 0
+xinxin 0
+xinying 0
+xinyuan 0
+xinzai 0
+xinzeng 6
+xinzhong 0
+xiong 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xiongbu 0
+xiongdi 0
+xiri 0
+xishi 0
+xisui 0
+xitong 3
+xiu 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xiude 0
+xiudu 0
+xiufu 21
+xiugai 11
+xiuhui 0
+xiuman 0
+xiuyang 0
+xiuzheng 0
+xiuzi 0
+xiwang 1
+xiyao 0
+xiyin 0
+xiyuan 0
+xize 0
+xizhi 0
+xu 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xuan 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xuanba 0
+xuanchuan 0
+xuande 0
+xuanding 0
+xuanjiang 0
+xuanke 0
+xuanni 0
+xuanpin 0
+xuanti 0
+xuanwei 0
+xuanwu 1
+xuanxiang 0
+xuanxiu 0
+xuanyou 0
+xuanze 7
+xuanzhong 0
+xuanzhuan 0
+xuduo 0
+xue 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xuebao 0
+xuedao 0
+xuefei 0
+xuefen 0
+xuefeng 0
+xuegong 0
+xuehui 0
+xueke 0
+xueli 0
+xuenian 0
+xueqi 0
+xuesheng 0
+xueshi 0
+xueshu 0
+xuetang 0
+xuetiao 0
+xuewei 0 0
+xuexi 0
+xuexiao 0
+xueya 0
+xueye 0
+xueyuan 0 0
+xuezhi 0 0
+xufei 0
+xuguang 0
+xugui 0
+xuhong 0
+xuji 0
+xujia 0 0
+xujiu 0 0 0
+xuke 0
+xukuang 0
+xuli 0
+xulie 0
+xulun 0
+xumeng 0
+xumin 0
+xun 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+xunhuan 2
+xuni 0
+xunlian 0
+xunmi 0
+xunsu 0
+xunwen 0
+xunzhao 0
+xunzi 0
+xuqiu 0
+xuxiao 0
+xuyao 27
+xuyu 0
+xuzhi 0
+xuzhou 0 0
+xuzifuchuan 1
+ya 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yali 0
+yan 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yanan 0
+yanbian 0
+yanchang 3 0
+yanchi 3
+yandu 0
+yanfa 0
+yang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yangben 0
+yangcheng 0 0
+yange 0
+yanggao 0
+yangkai 0
+yangkan 0
+yangle 0
+yangli 0
+yanglu 0
+yangming 0
+yangshi 0 0
+yanguan 0
+yangxiao 0
+yangxu 0
+yangyan 0
+yangzhi 1 0
+yangzhiye 1
+yangzi 0
+yanhou 0
+yanhua 0
+yanjia 0
+yanjiang 0
+yanjie 0
+yanjing 0
+yanjiu 0
+yanjun 0
+yankai 0
+yankan 0
+yanke 0
+yanluo 0
+yanse 0
+yanshen 0
+yanshi 1
+yanshou 0
+yansuan 0
+yanxu 0
+yanxue 0
+yanyan 0
+yanyang 0
+yanyi 0
+yanyong 0
+yanzheng 0
+yanzhengma 0
+yanzhong 0
+yao 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yaobu 0 0
+yaochu 0
+yaocong 0
+yaodai 0
+yaode 0
+yaodian 0
+yaogai 0
+yaohai 0
+yaohe 0
+yaohong 0
+yaojie 0
+yaokai 0
+yaokong 0
+yaoling 0
+yaoming 0
+yaoni 0
+yaoping 0
+yaoqian 0
+yaoqing 0 0
+yaoqiu 2
+yaoshi 0
+yaosu 0
+yaowo 0
+yaoxi 0
+yaoyi 0
+yaoyong 0
+yaoyou 0 0
+yaoyue 0
+yaozai 0
+yasi 0
+yatong 0
+ye 6 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yebie 0
+yebu 0
+yeda 0
+yedao 0
+yedi 0
+yedui 0
+yeguo 0
+yehai 0
+yehui 3
+yeji 0
+yejiu 0
+yeke 1
+yekeyi 0
+yelai 0
+yema 0
+yemian 10
+yemiangajiang 1
+yenan 0
+yeneng 0
+yeshi 0
+yeshou 0
+yewu 4
+yexiao 0
+yexing 0
+yeyao 0
+yeyi 0
+yeying 0
+yeyou 0
+yezai 0
+yezhu 0 0
+yezi 0
+yi 6 2 12 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yiai 0
+yiban 0 0
+yibao 0 0
+yibei 0
+yibian 2
+yibing 0
+yibu 4
+yiceng 1
+yichang 1 1 0
+yichu 0 0
+yici 5 0
+yidao 0
+yideng 0
+yidi 0
+yidian 3 1
+yiding 0 0
+yidong 3
+yiduan 0
+yidui 1
+yidun 0
+yier 0
+yifan 0
+yifang 0 0
+yifen 0 0
+yifu 0 0
+yigao 0
+yige 7
+yigei 0
+yigu 0
+yiguan 0
+yihan 0
+yihao 0
+yihou 0
+yihui 0
+yihuo 0 0
+yiji 2 0
+yijia 0 0
+yijian 0 0
+yijiang 0
+yijing 2
+yijiu 0
+yiju 0 0
+yikao 0
+yike 0
+yikuai 0
+yilai 0
+yili 0 0
+yiliao 1
+yiliu 0 0
+yilv 0
+yimen 0
+yimian 0
+yiming 2 1
+yin 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yinbi 0
+yincang 7
+yinchu 0
+yinci 0
+yindao 0
+yindu 0
+yinei 0
+yiner 0
+yinfang 0
+ying 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yingao 1
+yingbing 0
+yingcong 0
+yingde 0
+yingdui 0
+yingduo 0
+yinggai 0
+yinghan 0 0
+yinghe 0
+yinghou 0
+yinghua 0
+yingji 0
+yingjian 0
+yingjun 0
+yinglai 0
+yingpan 2
+yingqiu 0
+yingshe 1
+yingshui 0
+yingwei 0
+yingwen 0
+yingxiang 0
+yingxiao 0
+yingxie 0
+yingying 0
+yingyong 0
+yingyou 0
+yingyu 0
+yingyuan 0
+yinhang 0
+yinhao 2
+yinjian 0
+yinjin 0
+yinjiu 0
+yinpin 1
+yinqi 0 0
+yinqing 1
+yinru 0
+yinshi 0 0
+yinshua 0
+yinsi 0
+yinsu 0
+yinwei 0
+yinwen 0
+yinxiang 0 0
+yinxiao 0
+yinxing 0 0
+yinyan 0
+yinyong 1
+yinyue 0
+yiqi 1 0 0 0
+yiqian 0
+yiqie 0
+yiqing 0 0
+yiqiu 0
+yiqu 0
+yiran 0
+yirujiwang 0
+yishang 7
+yisheng 0
+yishi 0 0 0 0 0 0
+yishu 0
+yisi 0
+yisuo 0
+yiti 0
+yitian 0
+yituo 0
+yiwai 0 0
+yiwang 0 0
+yiwei 0
+yiwen 0 0
+yixia 2 11
+yixiang 0
+yixiao 0
+yixie 5
+yixue 0 0 0
+yiyang 1
+yiyao 0
+yiyi 2 0
+yiyou 0
+yiyuan 0
+yizai 0
+yizhang 0
+yizhi 2 0 0 0 0
+yizhong 0
+yizhou 0
+yizu 0
+yo 2 0 0 0
+yong 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yongbao 0
+yongchang 0
+yongci 0
+yongdao 0
+yongdi 0
+yongfa 0
+yonghu 24 0
+yonghuo 0
+yongjin 0
+yongli 0
+yongliang 0
+yongmei 0
+yongnao 0
+yongqi 0
+yongqilai 0
+yongren 0
+yongshang 0
+yongtu 0
+yongxin 0
+yongyi 0
+yongyou 1
+yongyu 7 0 0
+yongzhe 0
+yongzuo 0 0
+you 27 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+youai 0
+youba 0
+youbian 0 0
+youbu 0
+youce 0
+youchang 0
+youchuo 0
+youci 0
+youcuo 0
+youdai 0
+youde 0 0
+youdian 0 0
+youdie 0
+youge 0
+yougezhong 0
+youguan 0
+youhan 0
+youhao 0
+youhe 0
+youhua 4
+youhui 0
+youhuiquan 0
+youji 0
+youjian 0
+youjiu 0
+youke 0 0
+youkeneng 2
+youkeng 0
+youkong 0
+youlai 0
+youle 0
+youliang 0
+youlie 0
+youma 0
+youmeng 0
+youni 0
+youpa 0
+youpan 0
+youqi 2
+youquan 0 0
+youren 0 0
+youru 0
+youshangjiao 0
+youshi 0 0 0
+yousuo 0
+youta 0
+youtu 0 0
+youwen 0
+youwo 0
+youwu 0
+youxi 99
+youxian 1 1
+youxiang 0
+youxianji 0
+youxiao 0
+youxie 0 0
+youxingqu 0
+youxiu 0
+youxu 0
+youya 0
+youyan 0
+youyao 0
+youye 0
+youyi 0 0 0
+youyige 0
+youyiyi 2
+youyong 0
+youyou 0 0
+youyu 2 0
+youyue 0
+youzheng 0
+youzhuo 0
+yu 11 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yuan 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yuanban 0
+yuanben 1
+yuanchang 1
+yuanchao 0
+yuancheng 1
+yuanchuang 0
+yuandan 0
+yuandian 1
+yuanfang 0
+yuanfen 0
+yuangong 0
+yuanhu 0
+yuanji 0
+yuanjian 0
+yuanjiao 0
+yuanlai 0
+yuanli 0 0
+yuanpan 0
+yuanping 0
+yuansheng 0
+yuanshi 1
+yuanshu 0
+yuansu 2
+yuantao 0
+yuanti 0
+yuanwai 0
+yuanwang 0
+yuanwen 0
+yuanxi 0
+yuanxiao 0
+yuanxing 0 0
+yuanxu 0
+yuanxue 0
+yuanyi 0
+yuanyin 2
+yuanyou 0
+yuanyuan 0 0
+yuanyue 0
+yuanze 0
+yuanzhang 0
+yuanzhu 0
+yuanzhuang 0 0
+yuce 0
+yudao 0
+yude 0
+yuding 0 0
+yudingyi 0
+yue 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yueba 0
+yuebi 0
+yuebing 0
+yueda 0
+yuedi 0
+yueding 0
+yuedu 0
+yuefen 0
+yuefu 0
+yuegan 0
+yuejing 0
+yueli 0 0
+yueshu 0
+yuetian 0
+yuexiao 0
+yufa 0
+yufang 0
+yuhuang 0
+yujian 0
+yujing 0
+yukuai 0
+yulan 0 0
+yule 0 0
+yuleping 20
+yuliao 0
+yulong 0
+yulu 0 0
+yumen 0
+yuming 0
+yun 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+yuncha 0
+yundao 0
+yundong 0
+yuni 0
+yunian 0
+yunin 0
+yunlu 0
+yunnan 0
+yunpan 0
+yunshu 0
+yunsu 0
+yunsuan 0
+yunxing 8
+yunxu 1
+yunying 0
+yunyingshang 0
+yunyong 0
+yupan 0
+yuqi 0
+yuren 0
+yusai 0
+yushi 0
+yusu 0
+yutian 0 0
+yuting 0
+yutu 0
+yuwen 0
+yuxian 1
+yuxin 0
+yuxing 0
+yuyan 0 0 0
+yuyi 0 0
+yuyin 6
+yuyong 0
+yuyue 0
+yuzhe 0
+yuzhi 0 0
+yuzhou 0
+za 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zaha 0
+zai 24 0.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zaibao 0
+zaibo 3 0
+zaici 2 0
+zaicong 0
+zaidao 0
+zaide 0
+zaiding 0
+zaifa 0
+zaihan 0
+zaijia 0
+zaijiang 0
+zaijiao 0
+zaikao 0
+zailai 1
+zailimian 0
+zaimei 0
+zaina 0
+zainie 0
+zainin 0
+zaipei 0
+zaiqi 0
+zaiqian 0
+zaisan 0
+zaisheng 0
+zaishi 0
+zaishou 0
+zaishuo 0
+zaiti 0
+zaiwai 0 0
+zaiwen 0 0
+zaixia 0
+zaixian 0
+zaixiao 0
+zaixin 0
+zaiyi 0 0
+zaiyu 0
+zaizao 0
+zaizhe 0
+zaizhi 0
+zaizhuan 0
+zaizhuang 0
+zajin 0
+zale 0
+zan 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zanbu 0
+zang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zanshi 1
+zanting 12
+zanwei 2
+zanwu 0
+zao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zaocheng 3
+zaoci 0
+zaojiu 0
+zaoli 0
+zaoshang 0
+zaotui 0
+zaoxing 0
+zaozi 0
+zaza 0
+ze 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zebei 0
+zehui 0
+zei 0 0 0 0 0 0 0 0
+zen 0 0 0 0 0 0 0
+zeng 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zengda 0
+zengfa 0
+zengjia 1
+zengqiang 0
+zengshang 0
+zengshe 0
+zengsong 0
+zengzhang 0
+zengzhi 0
+zengzi 0
+zenme 0
+zenyang 0
+zeren 0
+zeye 0 0
+zha 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhadan 2
+zhahai 0
+zhai 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhaiju 0
+zhaiyao 0
+zhan 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhandian 0
+zhandou 0
+zhang 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhangai 0
+zhangaiwu 2
+zhangbei 0
+zhangcheng 0
+zhangdan 0
+zhangde 0
+zhangfang 0
+zhanghao 0
+zhanghu 0
+zhangjie 0
+zhangjin 0
+zhangkong 0
+zhanglei 0
+zhangliang 0
+zhangluo 0
+zhangsan 0
+zhangting 0
+zhangwei 0 0
+zhangwo 0
+zhangxin 0
+zhangyi 0
+zhangyou 0
+zhangzai 0
+zhangzhang 0
+zhanji 1
+zhankai 0
+zhansheng 0
+zhanshi 10
+zhanwang 0
+zhanwei 0 0
+zhanxia 0
+zhanxian 0
+zhanxiu 0
+zhanyong 1
+zhanzao 0
+zhanzhuo 0
+zhao 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhaoban 0
+zhaobiao 0
+zhaobing 0
+zhaochang 0
+zhaodao 0
+zhaogang 0
+zhaogu 0
+zhaoji 0
+zhaokai 0
+zhaole 0
+zhaopian 1
+zhaopianqiang 1
+zhaopin 0
+zhaoshe 0
+zhaosheng 0
+zhaoshi 0
+zhaoshou 0
+zhaota 0
+zhaozhun 0
+zhashi 0
+zhazha 0
+zhe 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhecai 0
+zheci 0 0
+zhedang 0
+zhedao 0
+zheduan 0
+zheer 0
+zhefen 0
+zhege 0
+zhegua 0
+zhehe 0
+zhehuo 0
+zhejiang 0
+zhejiu 0 0
+zheli 1
+zheme 0
+zhen 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhenbu 0
+zhende 0
+zhendong 0
+zhenduan 0
+zhendui 0
+zheng 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhengce 0
+zhengchang 2
+zhengde 0
+zhengduo 0
+zhengfan 0
+zhengfu 0
+zhenggai 0
+zhenggao 0
+zhengge 1
+zhenggui 0
+zhenghao 0
+zhenghe 0
+zhengjian 0
+zhengjiu 0
+zhengju 0 0
+zhengli 0
+zhengmian 0
+zhengming 0
+zhengpian 0
+zhengqi 0 0
+zhengqiu 0
+zhengqu 0
+zhengque 2
+zhengru 0
+zhengshi 0 0 0
+zhengshu 0 0
+zhengti 0
+zhengwan 0
+zhengwen 0
+zhengwu 0
+zhengxiao 0
+zhengye 0
+zhengzai 7
+zhengze 0
+zhengzebiaodashi 0
+zhengzhao 0
+zhenjia 0
+zhenjiang 0
+zhenlv 2
+zhenshi 1 0
+zhenxi 0
+zhenxing 0
+zhenyao 0
+zhenzheng 0
+zhenzhuo 0
+zheshi 0 0
+zhesuan 0
+zheteng 0
+zhewei 0
+zhexia 0
+zhexiang 0
+zhexie 2
+zheyang 0
+zheye 0
+zheyi 0
+zheyu 0
+zhezai 0
+zhezhong 2
+zhi 8 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhiban 0
+zhibi 0
+zhibiao 0
+zhibo 0
+zhichang 0
+zhichao 0
+zhicheng 0 0
+zhichi 14
+zhichu 1 1 0
+zhidao 1 0 0 0
+zhide 0
+zhiding 18 0
+zhidu 0 0
+zhifa 0
+zhifeng 0
+zhifu 0
+zhifubao 0
+zhihao 0
+zhihou 0 0
+zhijian 2 0
+zhijie 1
+zhijin 0
+zhijing 0
+zhijun 0
+zhike 0
+zhikong 0
+zhilei 0
+zhilian 0
+zhiliang 0
+zhiling 0
+zhilv 1
+zhiming 0
+zhinan 0
+zhineng 2 0
+zhinian 0
+zhiping 0
+zhiqian 3
+zhishang 0 0
+zhishao 0
+zhisheng 0
+zhishi 0 0 0
+zhishou 0
+zhishu 0 0
+zhisi 0
+zhisu 0
+zhitou 0
+zhiwai 0
+zhiwang 0
+zhiwei 0 0
+zhixia 0
+zhixiang 0
+zhixie 0
+zhixin 0
+zhixing 0
+zhixu 1
+zhiyao 2
+zhiye 0
+zhiyi 0
+zhiyou 2 0
+zhiyu 0 0
+zhiyuan 0
+zhiyue 0 0
+zhizai 0
+zhize 0
+zhizhe 0
+zhizhen 0
+zhizhi 0
+zhizuo 0
+zhong 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhongbing 0
+zhongbu 0
+zhongcong 0
+zhongde 0
+zhongdian 0
+zhongdu 0 0
+zhongduan 0
+zhongdui 0
+zhongduo 0
+zhonggong 0
+zhonggui 0 0
+zhongguo 0
+zhongjian 2 0
+zhongjun 0
+zhongli 0
+zhongliang 0
+zhonglie 0
+zhongmei 0
+zhongnian 0
+zhongpu 0
+zhongqi 0 0
+zhongqing 0
+zhongqiu 0
+zhongren 0
+zhongshan 0
+zhongshi 0
+zhongshuo 0
+zhongtu 0
+zhongwai 0
+zhongwen 1
+zhongwu 0
+zhongxia 0 0
+zhongxie 0
+zhongxin 1 0 0
+zhongxindian 0
+zhongyang 0
+zhongyao 0
+zhongyi 0
+zhongyong 0
+zhongyou 0
+zhongyu 0
+zhongyuan 0 0
+zhongzhi 0 0
+zhongzhong 0
+zhongzhuan 0
+zhou 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhoubian 0
+zhoude 0
+zhouer 0
+zhoujia 0
+zhoulang 0
+zhouli 0
+zhouliang 0
+zhouliu 0
+zhoumei 0
+zhoumo 0
+zhouqi 0
+zhouqing 0
+zhousan 0
+zhousi 0
+zhouwu 0
+zhouye 0
+zhouzheng 0
+zhu 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhua 0 0 0 0 0 0 0 0 0
+zhuai 0 0 0 0 0 0 0
+zhuajin 0
+zhuan 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhuancheng 0
+zhuanda 0
+zhuanfa 0
+zhuang 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhuangang 0
+zhuangao 0 0
+zhuangban 0
+zhuangbi 0
+zhuangchai 0
+zhuangda 0
+zhuangji 0 0
+zhuangkuang 0
+zhuangren 0
+zhuangtai 7
+zhuanhuan 0
+zhuanjia 0
+zhuanli 0
+zhuanmen 0
+zhuanpan 0
+zhuanshuo 0
+zhuanti 0 0
+zhuanwen 0
+zhuanxiang 0 0
+zhuanxie 0
+zhuanye 0
+zhuanyi 0 0
+zhuanyong 0
+zhuanzai 0
+zhuanzhu 0
+zhuashou 0
+zhuazhu 0
+zhuban 0
+zhubo 1
+zhuce 0
+zhuceng 0
+zhucheng 0
+zhuchi 0
+zhudi 0
+zhudong 0
+zhuduo 0
+zhufang 0
+zhufu 0
+zhugan 0
+zhuge 0
+zhuguan 0 0
+zhui 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhuijia 0
+zhuixun 0
+zhuize 0
+zhuji 0 0
+zhujun 0
+zhuli 0
+zhuliu 0
+zhumin 0
+zhun 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhunbei 0
+zhuni 0
+zhunin 0
+zhunkao 0
+zhunque 0
+zhunquelv 0
+zhunze 0
+zhuo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zhuojian 0 0
+zhuomian 0
+zhuoni 0
+zhuoqing 0
+zhuoshou 0
+zhuou 0
+zhuowen 0
+zhuozhong 0
+zhuozhuang 0
+zhuqi 0
+zhuqiang 0
+zhuqiao 0
+zhuren 0
+zhuru 0
+zhushi 4
+zhushou 0
+zhusu 0
+zhuti 0 0
+zhuwei 0
+zhuxiu 0
+zhuxue 0
+zhuyan 0
+zhuyao 0
+zhuye 0
+zhuyi 5 0 0
+zhuyu 0
+zhuyuan 0
+zhuzai 0
+zhuzheng 0
+zhuzhong 0
+zhuzuo 0
+zi 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zice 0
+zichan 0
+zidai 0
+zidian 0
+ziding 0
+zidingyi 2
+zidong 28
+ziduan 12
+zifu 1 0
+zifuchuan 11
+zige 0
+zihan 0
+zihe 0
+ziheng 0
+ziji 1
+zijin 0
+zijue 0
+zikao 0
+zike 0
+zilei 0
+ziliao 0
+zilv 0
+zimu 0 0
+zini 0
+ziqiong 0
+ziran 0
+zishen 2 0
+zishi 0
+zishu 0 0
+ziti 1
+zitu 0
+ziwo 0
+zixi 0
+zixing 0 0
+zixun 0
+ziyi 0
+ziyou 0
+ziyuan 1 0
+zizhu 0 0 0
+zong 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zongfen 0
+zonghang 0
+zonghe 0
+zongjie 0
+zongma 0
+zongrong 0
+zongshi 0
+zongshu 0
+zongti 0
+zongwu 0
+zongxian 0
+zongzai 0
+zongzhi 0
+zongzi 0
+zou 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zouli 0
+zoushi 0
+zouxiang 0
+zu 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zuan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zuancheng 0
+zucheng 0
+zuduan 0
+zudui 0
+zufei 0
+zugou 0
+zuguo 0
+zuhe 1
+zui 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zuibu 0
+zuichou 0
+zuida 2
+zuidi 1
+zuiduan 1
+zuiduo 4
+zuihao 0
+zuihou 0
+zuijin 1
+zuikuai 0
+zuiruo 0
+zuitai 0
+zuixin 0
+zuizao 0
+zuizhong 4
+zujian 0
+zuli 0
+zun 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zuni 2
+zunjing 0
+zunlan 0
+zunshou 0
+zunxun 0
+zunzhao 0
+zunzhong 0
+zunzhu 0
+zuo 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+zuobian 0
+zuobiao 1
+zuobiaoxi 1
+zuobu 0
+zuoce 0
+zuochu 0 0
+zuoda 0
+zuodao 0
+zuode 0 0
+zuoe 0
+zuofa 0
+zuofeng 0
+zuoguai 0
+zuoguo 0
+zuohao 0
+zuoji 0
+zuole 0 0
+zuopin 0
+zuoshangjiao 0
+zuoshi 0
+zuotan 0
+zuotian 0
+zuotu 0
+zuowan 0 0
+zuowei 1 0
+zuoxi 0
+zuoxia 0
+zuoxiajiao 0
+zuoxie 0
+zuoyan 0
+zuoye 0 0
+zuoyong 1
+zuoyongli 0
+zuoyou 0
+zuozai 0
+zuozhe 0
+zuozheng 0
+zuozhuan 0
+zuozou 0
+zuqiu 0
+zuxi 0
+zuyi 0
+zuyong 0
+zuyuan 0
+zuzhang 0
+zuzhi 0
